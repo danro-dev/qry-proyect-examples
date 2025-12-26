@@ -32221,3 +32221,55 @@ avg_travel_days = avg_days_df.iloc[0]['avg_travel_days']
 answer_text = f'La duración promedio de los viajes es de aproximadamente {avg_travel_days:.2f} días. Esto significa que, en promedio, los viajes registrados duran poco más de dos semanas, aunque hay variaciones dependiendo del tipo de viaje y la ruta.'
 result = {'type': 'string', 'value': answer_text}
 2025-12-26 09:02:11 [INFO] Response generated successfully.
+2025-12-26 18:24:30 [INFO] Question: Provide a comprehensive summary of the data. Provide a clear, conversational answer explaining the result.
+2025-12-26 18:24:30 [INFO] Running PandasAI with openai LLM...
+2025-12-26 18:24:30 [INFO] Prompt ID: a3d01260-0345-4248-ab7a-f4ed5dd2fef0
+2025-12-26 18:24:30 [INFO] Generating new code...
+2025-12-26 18:24:30 [INFO] Using Prompt: <tables>
+
+<table dialect="duckdb" table_name="table_6afe439ee6b574147c7dd063198b72b4" columns="[{"name": "fecha", "type": "string", "description": null, "expression": null, "alias": null}, {"name": "producto", "type": "string", "description": null, "expression": null, "alias": null}, {"name": "categoria", "type": "string", "description": null, "expression": null, "alias": null}, {"name": "cantidad", "type": "integer", "description": null, "expression": null, "alias": null}, {"name": "precio_unitario", "type": "float", "description": null, "expression": null, "alias": null}, {"name": "vendedor", "type": "string", "description": null, "expression": null, "alias": null}, {"name": "region", "type": "string", "description": null, "expression": null, "alias": null}]" dimensions="30x7">
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,region
+2024-01-15,Laptop Pro,Electrónica,5,1299.99,María García,Norte
+2024-01-15,Mouse Inalámbrico,Accesorios,20,29.99,Carlos López,Sur
+2024-01-16,"Monitor 27""",Electrónica,8,399.99,María García,Norte
+2024-01-16,Teclado Mecánico,Accesorios,15,89.99,Ana Martínez,Centro
+2024-01-17,Laptop Pro,Electrónica,3,1299.99,Carlos López,Sur
+</table>
+
+
+</tables>
+
+The following functions have already been provided. Please use them as needed and do not redefine them.
+<function>
+def execute_sql_query(sql_query: str) -> pd.DataFrame
+    """This method connects to the database, executes the sql query and returns the dataframe"""
+</function>
+
+
+
+Update this initial code:
+```python
+# TODO: import the required dependencies
+import pandas as pd
+
+# Write code here
+
+# Declare result var: 
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+```
+
+
+
+### QUERY
+ Provide a comprehensive summary of the data. Provide a clear, conversational answer explaining the result.
+
+At the end, declare "result" variable as a dictionary of type and value in the following format:
+
+type (possible values "string", "number", "dataframe", "plot"). Examples: { "type": "string", "value": f"The highest salary is {highest_salary}." } or { "type": "number", "value": 125 } or { "type": "dataframe", "value": pd.DataFrame({...}) } or { "type": "plot", "value": "temp_chart.png" }
+
+
+
+Generate python code and return full updated code:
+
+### Note: Use only relevant table for query and do aggregation, sorting, joins and grouby through sql query

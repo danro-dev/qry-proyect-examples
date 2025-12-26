@@ -29,6 +29,12 @@ Esta guía te ayudará a instalar qry-doc y configurar tu entorno de desarrollo.
     uv add "qry-doc[litellm]"
     ```
 
+=== "Con AIBuilder (LangChain)"
+
+    ```bash
+    uv add "qry-doc[langchain]"
+    ```
+
 === "Instalación completa"
 
     ```bash
@@ -55,6 +61,12 @@ Si prefieres usar pip:
 
     ```bash
     pip install "qry-doc[litellm]"
+    ```
+
+=== "Con AIBuilder (LangChain)"
+
+    ```bash
+    pip install "qry-doc[langchain]"
     ```
 
 === "Instalación completa"
@@ -149,6 +161,7 @@ print("✅ Nuevos tipos v0.1.3 disponibles")
 |-------|-------------|---------|
 | `openai` | Soporte para OpenAI GPT | `qry-doc[openai]` |
 | `litellm` | Múltiples proveedores LLM | `qry-doc[litellm]` |
+| `langchain` | AIBuilder con LangChain | `qry-doc[langchain]` |
 | `postgres` | Conexión a PostgreSQL | `qry-doc[postgres]` |
 | `mysql` | Conexión a MySQL | `qry-doc[mysql]` |
 | `all` | Todos los extras | `qry-doc[all]` |

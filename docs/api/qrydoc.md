@@ -168,6 +168,91 @@ qry.generate_report(
 - `ReportError`: Si la generación del reporte falla.
 - `ValidationError`: Si la portada o recursos son inválidos.
 
+---
+
+### generate_report_with_builder()
+
+<span class="version-badge new">v0.1.5</span>
+
+Genera un reporte PDF usando CoverBuilder y TemplateBuilder.
+
+```python
+def generate_report_with_builder(
+    self,
+    output_path: str | Path,
+    cover: CoverBuilder | None = None,
+    template: TemplateBuilder | None = None,
+    title: str = "Reporte Automático",
+    summary: str | None = None,
+    include_table: bool = True
+) -> str
+```
+
+#### Parámetros
+
+| Parámetro | Tipo | Default | Descripción |
+|-----------|------|---------|-------------|
+| `output_path` | `str \| Path` | - | Ruta del archivo PDF |
+| `cover` | `CoverBuilder \| None` | `None` | Builder de portada |
+| `template` | `TemplateBuilder \| None` | `None` | Builder de template |
+| `title` | `str` | `"Reporte Automático"` | Título del reporte |
+| `summary` | `str \| None` | `None` | Resumen (auto-generado si None) |
+| `include_table` | `bool` | `True` | Incluir tabla de datos |
+
+#### Ejemplo
+
+```python
+cover = qry.create_cover().set_title("Mi Reporte")
+template = qry.create_template().with_colors("#003366")
+
+qry.generate_report_with_builder(
+    "reporte.pdf",
+    cover=cover,
+    template=template,
+    title="Análisis Q4"
+)
+```
+
+---
+
+### create_cover()
+
+<span class="version-badge new">v0.1.5</span>
+
+Crea un nuevo CoverBuilder para construir portadas dinámicas.
+
+```python
+def create_cover(self) -> CoverBuilder
+```
+
+#### Ejemplo
+
+```python
+cover = qry.create_cover()
+cover.set_title("Mi Reporte", font_size=48)
+cover.set_author("Equipo de Datos")
+```
+
+---
+
+### create_template()
+
+<span class="version-badge new">v0.1.5</span>
+
+Crea un nuevo TemplateBuilder para construir templates personalizados.
+
+```python
+def create_template(self) -> TemplateBuilder
+```
+
+#### Ejemplo
+
+```python
+template = qry.create_template()
+template.with_colors("#003366")
+template.with_charts(charts)
+```
+
 ## Propiedades
 
 ### dataframe
@@ -196,6 +281,22 @@ def shape(self) -> tuple[int, int]
 ```
 
 Retorna las dimensiones (filas, columnas).
+
+### ai_builder
+
+<span class="version-badge new">v0.1.5</span>
+
+```python
+@property
+def ai_builder(self) -> AIBuilder
+```
+
+Retorna un AIBuilder configurado con el DataFrame y LLM actuales.
+
+```python
+ai = qry.ai_builder
+suggestions = ai.suggest_charts("análisis de ventas")
+```
 
 ## Context Manager
 

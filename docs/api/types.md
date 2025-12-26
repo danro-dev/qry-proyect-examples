@@ -264,3 +264,181 @@ template = ReportTemplate(page_size=A4)
 
 - [ReportTemplate](report-template.md)
 - [QryDoc](qrydoc.md)
+
+---
+
+## Tipos v0.1.5
+
+### TextElement <span class="version-badge new">v0.1.5</span>
+
+Elemento de texto configurable para portadas.
+
+```python
+from qry_doc import TextElement, TextAlignment
+
+element = TextElement(
+    content="Mi Título",
+    x=306.0,
+    y=500.0,
+    font_size=36.0,
+    font_family="Helvetica-Bold",
+    color="#003366",
+    alignment=TextAlignment.CENTER,
+    element_type="title"
+)
+```
+
+| Atributo | Tipo | Default | Descripción |
+|----------|------|---------|-------------|
+| `content` | `str` | - | Contenido del texto |
+| `x` | `float` | `0.0` | Posición X en puntos |
+| `y` | `float` | `0.0` | Posición Y en puntos |
+| `font_size` | `float` | `12.0` | Tamaño de fuente |
+| `font_family` | `str` | `"Helvetica"` | Familia de fuente |
+| `color` | `str` | `"#000000"` | Color hex |
+| `alignment` | `TextAlignment` | `LEFT` | Alineación |
+| `element_type` | `str` | `"custom"` | Tipo de elemento |
+
+---
+
+### TextAlignment <span class="version-badge new">v0.1.5</span>
+
+Enum para alineación de texto.
+
+```python
+from qry_doc import TextAlignment
+
+TextAlignment.LEFT    # Alineado a la izquierda
+TextAlignment.CENTER  # Centrado
+TextAlignment.RIGHT   # Alineado a la derecha
+```
+
+---
+
+### ChartConfig <span class="version-badge new">v0.1.5</span>
+
+Configuración para gráficas individuales.
+
+```python
+from qry_doc import ChartConfig
+
+chart = ChartConfig(
+    chart_type='bar',
+    title='Ventas por Región',
+    group_by='region',
+    value_column='total',
+    color='#003366',
+    figsize=(10, 6)
+)
+```
+
+| Atributo | Tipo | Default | Descripción |
+|----------|------|---------|-------------|
+| `chart_type` | `str` | - | Tipo: bar, barh, line, pie, scatter, area |
+| `title` | `str` | - | Título de la gráfica |
+| `data_query` | `str` | `None` | Query para datos |
+| `group_by` | `str` | `None` | Columna para agrupar |
+| `value_column` | `str` | `None` | Columna de valores |
+| `color` | `str` | `None` | Color hex |
+| `figsize` | `tuple` | `(10, 6)` | Tamaño en pulgadas |
+
+---
+
+### ChartTypeEnum <span class="version-badge new">v0.1.5</span>
+
+Enum de tipos de gráficas soportados.
+
+```python
+from qry_doc import ChartTypeEnum
+
+ChartTypeEnum.BAR      # 'bar'
+ChartTypeEnum.BARH     # 'barh'
+ChartTypeEnum.LINE     # 'line'
+ChartTypeEnum.PIE      # 'pie'
+ChartTypeEnum.SCATTER  # 'scatter'
+ChartTypeEnum.AREA     # 'area'
+```
+
+---
+
+### ReportPresetType <span class="version-badge new">v0.1.5</span>
+
+Enum de tipos de presets por industria.
+
+```python
+from qry_doc import ReportPresetType
+
+ReportPresetType.FINANCIAL      # Banca e inversiones
+ReportPresetType.HEALTHCARE     # Salud y farmacéutica
+ReportPresetType.TECHNOLOGY     # Software y TI
+ReportPresetType.RETAIL         # Comercio y ventas
+ReportPresetType.MANUFACTURING  # Producción industrial
+ReportPresetType.CONSULTING     # Consultoría
+```
+
+---
+
+### DataSummary <span class="version-badge new">v0.1.5</span>
+
+Resumen estructurado de un DataFrame.
+
+```python
+from qry_doc import DataSummary
+
+# Obtenido desde AIBuilder
+summary = ai.get_data_summary()
+```
+
+| Atributo | Tipo | Descripción |
+|----------|------|-------------|
+| `columns` | `list[str]` | Nombres de columnas |
+| `dtypes` | `dict[str, str]` | Tipos de datos |
+| `shape` | `tuple[int, int]` | (filas, columnas) |
+| `sample` | `dict` | Muestra de datos |
+| `numeric_columns` | `list[str]` | Columnas numéricas |
+| `categorical_columns` | `list[str]` | Columnas categóricas |
+| `null_counts` | `dict[str, int]` | Conteo de nulos |
+
+---
+
+### ChartSuggestion <span class="version-badge new">v0.1.5</span>
+
+Sugerencia de gráfica con razonamiento.
+
+```python
+from qry_doc import ChartSuggestion
+
+# Obtenido desde AIBuilder
+suggestions = ai.suggest_charts()
+for s in suggestions:
+    print(s.config)      # ChartConfig
+    print(s.reasoning)   # str
+    print(s.confidence)  # float
+```
+
+| Atributo | Tipo | Descripción |
+|----------|------|-------------|
+| `config` | `ChartConfig` | Configuración de la gráfica |
+| `reasoning` | `str` | Razón de la sugerencia |
+| `confidence` | `float` | Nivel de confianza (0.0 a 1.0) |
+
+---
+
+### CoverConfig <span class="version-badge new">v0.1.5</span>
+
+Configuración completa de una portada.
+
+```python
+from qry_doc import CoverConfig
+
+# Obtenido desde CoverBuilder.build()
+config = cover.build()
+```
+
+| Atributo | Tipo | Descripción |
+|----------|------|-------------|
+| `elements` | `list[TextElement]` | Elementos de texto |
+| `background_image` | `Path \| None` | Imagen de fondo |
+| `background_color` | `str \| None` | Color de fondo |
+| `background_opacity` | `float` | Opacidad (0.0 a 1.0) |
+| `page_size` | `tuple` | Tamaño de página |

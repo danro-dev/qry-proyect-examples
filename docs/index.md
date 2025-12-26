@@ -68,16 +68,17 @@ qry.generate_report("Análisis trimestral de ventas", "reporte_q4.pdf")
 
 </div>
 
-## 🆕 Novedades en v0.1.3
+## 🆕 Novedades en v0.1.5
 
-La versión 0.1.3 introduce mejoras significativas en la generación de PDFs:
+La versión 0.1.5 introduce nuevas funcionalidades avanzadas:
 
 | Característica | Descripción |
 |----------------|-------------|
-| :framed_picture: **Portadas** | Imágenes de portada a página completa |
-| :label: **Footer Logo** | Logo en pie de página (default o personalizado) |
-| :pencil2: **Fuentes Custom** | Soporte para fuentes TTF/OTF |
-| :bookmark_tabs: **Secciones** | Sistema de secciones personalizables |
+| :robot: **AIBuilder** | Agente inteligente con LangChain para preparación de datos |
+| :art: **CoverBuilder** | API fluida para crear portadas dinámicas |
+| :building_construction: **TemplateBuilder** | Constructor fluido para templates personalizados |
+| :bar_chart: **Multi-gráficas** | Soporte para hasta 10 gráficas por reporte |
+| :factory: **ReportPresets** | Presets predefinidos por industria |
 
 [Ver changelog completo](changelog.md){ .md-button }
 
