@@ -7,6 +7,30 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ---
 
+## [0.1.4] - 2025-12-26
+
+### Mejorado
+
+#### 🖼️ Portada a página completa
+
+La imagen de portada ahora cubre toda la página sin márgenes.
+
+- Usa el método Canvas de ReportLab para mayor flexibilidad
+- La portada no muestra header ni footer
+- Solucionado error "Flowable too large" con imágenes grandes
+
+#### 🏷️ Logo del footer más grande
+
+Tamaño por defecto aumentado significativamente para mejor visibilidad.
+
+```python
+# Nuevos valores por defecto
+footer_logo_width: 120.0   # antes: 40.0
+footer_logo_height: 60.0   # antes: 20.0
+```
+
+---
+
 ## [0.1.3] - 2025-12-25
 
 ### Añadido

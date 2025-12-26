@@ -132,7 +132,7 @@ print(respuesta)
 
 ## 📄 Licencia
 
-MIT License - ver [LICENSE](https://github.com/danro-dev/qry-doc/blob/main/LICENSE) para más detalles.
+GPL-3.0 License - ver [LICENSE](https://github.com/danro-dev/qry-doc/blob/main/LICENSE) para más detalles.
 
 ---
 

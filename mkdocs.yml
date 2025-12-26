@@ -2,7 +2,7 @@
 site_name: qry-doc
 site_description: Motor de análisis generativo para consultas en lenguaje natural
 site_author: danro-dev
-site_url: https://danro-dev.github.io/qry-doc/
+site_url: https://qry-doc.netsy.ai/
 
 # Repositorio
 repo_name: danro-dev/qry-doc
