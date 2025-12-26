@@ -1,0 +1,5 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,region
+2025-01-10,Camiseta,Ropa,2,19.99,Ana,Centro
+2025-01-11,Jean,Ropa,1,49.90,Carlos,Norte
+2025-01-12,Zapatos,Calzado,3,79.50,Lucia,Sur
+2025-01-13,Gorra,Accesorios,5,9.99,Marcos,Este

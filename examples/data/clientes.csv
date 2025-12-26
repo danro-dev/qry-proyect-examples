@@ -1,0 +1,16 @@
+id,nombre,email,ciudad,fecha_registro,total_compras,segmento
+1,Juan Pérez,juan.perez@email.com,Madrid,2023-01-15,15420.50,Premium
+2,Laura Sánchez,laura.sanchez@email.com,Barcelona,2023-02-20,8750.00,Regular
+3,Pedro Gómez,pedro.gomez@email.com,Valencia,2023-03-10,22100.75,Premium
+4,Carmen Ruiz,carmen.ruiz@email.com,Sevilla,2023-04-05,3200.00,Básico
+5,Miguel Torres,miguel.torres@email.com,Bilbao,2023-05-12,12890.25,Premium
+6,Ana Fernández,ana.fernandez@email.com,Málaga,2023-06-18,6540.00,Regular
+7,Roberto Díaz,roberto.diaz@email.com,Zaragoza,2023-07-22,1850.50,Básico
+8,Isabel Moreno,isabel.moreno@email.com,Murcia,2023-08-30,18920.00,Premium
+9,Francisco López,francisco.lopez@email.com,Palma,2023-09-14,4320.75,Regular
+10,Elena Martín,elena.martin@email.com,Las Palmas,2023-10-08,9870.00,Regular
+11,David García,david.garcia@email.com,Alicante,2023-11-25,28450.50,Premium
+12,Sofía Hernández,sofia.hernandez@email.com,Córdoba,2023-12-03,2100.00,Básico
+13,Andrés Jiménez,andres.jimenez@email.com,Valladolid,2024-01-10,7650.25,Regular
+14,Patricia Álvarez,patricia.alvarez@email.com,Vigo,2024-02-14,16780.00,Premium
+15,Javier Romero,javier.romero@email.com,Gijón,2024-03-20,5430.50,Regular

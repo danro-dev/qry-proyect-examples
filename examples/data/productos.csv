@@ -1,0 +1,13 @@
+sku,nombre,categoria,precio,stock,proveedor,margen_ganancia
+LP001,Laptop Pro,Electrónica,1299.99,45,TechSupply,0.25
+LP002,Laptop Básica,Electrónica,699.99,78,TechSupply,0.20
+TB001,Tablet 10",Electrónica,449.99,120,TechSupply,0.22
+MN001,Monitor 27",Electrónica,399.99,65,DisplayCorp,0.18
+MS001,Mouse Inalámbrico,Accesorios,29.99,350,AccesoriosPro,0.35
+TC001,Teclado Mecánico,Accesorios,89.99,180,AccesoriosPro,0.30
+WC001,Webcam HD,Accesorios,59.99,200,AccesoriosPro,0.28
+AU001,Auriculares Bluetooth,Accesorios,79.99,150,AudioMax,0.32
+HB001,Hub USB,Accesorios,24.99,400,AccesoriosPro,0.40
+CB001,Cable HDMI 2m,Accesorios,12.99,500,CableWorld,0.45
+FD001,Funda Laptop 15",Accesorios,34.99,220,AccesoriosPro,0.38
+SP001,Soporte Monitor,Accesorios,49.99,90,AccesoriosPro,0.33

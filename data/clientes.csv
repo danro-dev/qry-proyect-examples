@@ -1,0 +1,5 @@
+cliente_id,nombre,email,ciudad
+1,Ana,ana@example.com,Centro
+2,Carlos,carlos@example.com,Norte
+3,Lucia,lucia@example.com,Sur
+4,Marcos,marcos@example.com,Este

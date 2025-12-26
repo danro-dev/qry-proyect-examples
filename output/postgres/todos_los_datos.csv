@@ -1,0 +1,14 @@
+﻿id,fecha,producto,categoria,cantidad,precio_unitario,total,vendedor,region
+1,2024-01-15,Laptop HP,Electrónica,5,15000.0,75000.0,Carlos García,Norte
+2,2024-01-16,Mouse Logitech,Accesorios,20,350.0,7000.0,Ana López,Sur
+3,2024-01-17,Teclado Mecánico,Accesorios,15,1200.0,18000.0,Carlos García,Norte
+4,2024-01-18,Monitor Samsung,Electrónica,8,5500.0,44000.0,Pedro Martínez,Centro
+5,2024-01-19,Webcam HD,Accesorios,25,800.0,20000.0,Ana López,Sur
+6,2024-02-01,Laptop Dell,Electrónica,3,18000.0,54000.0,María Sánchez,Norte
+7,2024-02-05,Audífonos Sony,Accesorios,30,450.0,13500.0,Pedro Martínez,Centro
+8,2024-02-10,Tablet iPad,Electrónica,6,12000.0,72000.0,Carlos García,Norte
+9,2024-02-15,Impresora Epson,Electrónica,4,3500.0,14000.0,Ana López,Sur
+10,2024-02-20,Cable HDMI,Accesorios,50,150.0,7500.0,María Sánchez,Centro
+11,2024-03-01,Laptop Lenovo,Electrónica,7,14000.0,98000.0,Pedro Martínez,Norte
+12,2024-03-10,Mouse Inalámbrico,Accesorios,40,280.0,11200.0,Carlos García,Sur
+13,2024-03-15,Monitor LG,Electrónica,5,6000.0,30000.0,Ana López,Centro
