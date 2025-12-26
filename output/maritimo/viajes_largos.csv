@@ -1,0 +1,615 @@
+publication_date,travel_departure_port,travel_arrival_port,ship_type,ship_name,travel_days
+1851-12-02,Barcelona,La Habana,berg. erp,Duende,60.0
+1851-12-04,Buenos Aires,La Habana,berg. in.,Crimea,73.0
+1851-12-12,Minachien,La Habana,frag. am.,Jasper,63.0
+1851-12-14,Barcelona,La Habana,pol. esp.,Dorotea,63.0
+1851-12-16,Bilbao,La Habana,berg. erp.,Paquote,64.0
+1851-12-16,.De Barcelona,La Habana,gol. cap.,Culebra,62.0
+1851-12-16,Santander,La Habana,frag. erp.,Santos,64.0
+1851-12-16,l Havre,La Habana,"berg, esp.",Susans,64.0
+1851-12-16,Mallorca,La Habana,berg. eap.,Cid,57.0
+1851-12-18,Barcelona,La Habana,pol. exp.,Moniquita,64.0
+1851-12-19,l Havre,La Habana,"berg, esp.",Unica Hija,55.0
+1851-12-19,"SU
+De Barcelona",La Habana,"gol, esp.",Safo,61.0
+1851-12-19,Terranova,La Habana,borg. ing.,Iris,33.0
+1851-12-20,Barcelona,La Habana,pol. esp.,Silencio,60.0
+1851-12-23,Santander,La Habana,borg. osp.,Diana,80.0
+1851-12-23,Greenock,La Habana,berg. ing.,Demerara,70.0
+1851-12-24,o Amberes,La Habana,feng belga,Bourse,43.0
+1851-12-24,l Havre,La Habana,frag. franc.,Gustave,57.0
+1851-12-24,Gijon,La Habana,frag. esp.,Villa,57.0
+1851-12-24,:Cadis,La Habana,"frag, esp.",Dians,60.0
+1851-12-24,Canarias,La Habana,frag. cap.,Las Palmas,41.0
+1851-12-24,CA!diz,La Habana,berg. esp.,Sabina,48.0
+1851-12-25,Mallorca,La Habana,frag. esp.,Balear,60.0
+1851-12-25,Barcelona,La Habana,pol. esp.,Concepcion,66.0
+1851-12-25,Bilbao,La Habana,berg. esp.,Claudio,67.0
+1851-12-25,la CoruA+-a,La Habana,berg esp,Pepillo,67.0
+1851-12-26,New-Port,La Habana,berg. ing.,Favorite,73.0
+1851-12-26,Londres,La Habana,berg. esp.,Buen Jesus,73.0
+1851-12-26,Santander,La Habana,borz. esp.,Eupresa,67.0
+1851-12-28,o Barcelona,La Habana,frag. esp.,Sirona,46.0
+1851-12-28,o Barcelona,La Habana,pol. esp.,Acancia,47.0
+1851-12-28,Buenos Aires,La Habana,berg. esp.,Lindo,45.0
+1853-01-11,s New-Port,La Habana,1-erg.,Ing. Gondo'a,57.0
+1853-01-26,Liverpool,La Habana,berg.,Ing. Lucy Sharps,60.0
+1853-02-05,Barcelona,La Habana,frag. esp.,Sirens,48.0
+1853-02-05,o Mallora,La Habana,pol. esp.,Isabel,69.0
+1853-02-05,l Havre,La Habana,frag. franc.,Clementine,62.0
+1853-02-05,CA!diz,La Habana,frag. de,S. M. Perla,43.0
+1853-03-01,San Sebastian,La Habana,berg. esp.,Nuevo Carmencita,125.0
+1853-03-01,Londres,La Habana,"berk, esp.",Juan Emilio,104.0
+1853-03-01,Santander,La Habana,frag. esp.,Carolloa,110.0
+1853-03-11,Newport,La Habana,frag. sueca,Scondis,45.0
+1853-03-11,Liverpool,La Habana,frag. ing.,Calcuta,40.0
+1853-03-22,liverpool,La Habana,fraz. e.,Maris Juan,40.0
+1853-03-31,allorca,La Habana,pol. esp.,Linda,70.0
+1853-04-09,Torranova,La Habana,berg. ing.,Banshee,31.0
+1853-04-12,o Santander,La Habana,pop.,Acaucia,50.0
+1853-04-12,Barcelona,La Habana,del,Aoltimo,35.0
+1853-04-12,Vigo,La Habana,frag. cap.,Guia,42.0
+1853-04-27,New-Port,La Habana,frag.sueca,New-York,70.0
+1853-04-30,Burces,La Habana,bg. esp.,Mindel Pilar,49.0
+1853-05-04,Liverpool,La Habana,terg. esp,Pastorita,51.0
+1853-05-10,la CoruA+-a,La Habana,frag. cap.,Teresa,40.0
+1853-05-17,Liverpool,La Habana,terg. p.,Amalia,52.0
+1853-06-02,Panta Isabel [Cabo de Branza),La Habana,burg danes,Christian,50.0
+1853-07-13,Cadiz,La Habana,berg. esp.,Veloz Gaditano,32.0
+1853-07-13,Sunbargo,La Habana,l-rg. esp.,Almirante.,43.0
+1853-07-13,Mallorca,La Habana,Ierg. esp.,Cid,31.0
+1853-07-23,CA!diz,La Habana,trag. esp.,Castilla,32.0
+1854-01-06,Cadiz,La Habana,"frig, esp.",Castilan,44.0
+1854-01-06,Malloren,La Habana,frug. p.,Provalencia,55.0
+1854-01-10,o Monteviden,La Habana,berg. exp,Vencedor.cap. RosAA,96.0
+1854-01-12,Andrussen,La Habana,frag ing.,Constellation,60.0
+1854-01-12,Cardiff,La Habana,"fng, noruega",Uranin,53.0
+1854-01-12,Santander,La Habana,frag. exp.,Popita,37.0
+1854-01-12,Liverpool,La Habana,berg. esp.,Jesus,51.0
+1854-01-17,Santander,La Habana,berg. esp.,Sirena,42.0
+1854-01-17,Santander,La Habana,"frag, esp.",Tuga,41.0
+1854-01-20,Liverpool,La Habana,"berg, esp.",Nuevo Leon,35.0
+1854-01-20,Sunderland,La Habana,frag. ing.,Fairy,72.0
+1854-01-20,Cardiff,La Habana,frag. am.,Tedesco,45.0
+1854-01-25,Liverpool,La Habana,berg. esp.,Joven Pepito,37.0
+1854-01-26,San Sel astian,La Habana,luere esp.,Joven Formin,34.0
+1854-02-04,Aalesund,La Habana,berg. esp.,Nervion,49.0
+1854-02-05,Santander,La Habana,berg.cap.,Querido,42.0
+1854-02-09,New-Brunswick,La Habana,berg. ing.,Boston,32.0
+1854-02-09,Canarias,La Habana,"berg., esp.",Trueno,45.0
+1854-02-16,Cardit,La Habana,"berg, esp.",Sob,41.0
+1854-02-24,CAA!diz,La Habana,pol. esp.,InAA,34.0
+1854-02-25,Buenos Aires,La Habana,borg. esp,Soberano,70.0
+1854-03-07,Barcelona,La Habana,"1erg, esp.",Previsor,50.0
+1854-03-14,Burdeos,La Habana,berg. esp.,Dolores,35.0
+1854-03-14,Cardiff,La Habana,berg surco,Oscar,51.0
+1854-03-14,la CoruAA+-a,La Habana,frag. esp.,Eloisa,52.0
+1854-03-15,Cadiz,La Habana,goleep.,Et,35.0
+1854-03-22,Mallor,La Habana,"bere, esp.",FAAanix,31.0
+1854-03-28,Liverpool,La Habana,"berg, esp.",Beinta,42.0
+1854-03-28,Marzo 27. De Ardrossan,La Habana,"frg, norueg",Deodata,41.0
+1854-03-30,Cardiff,La Habana,berg belga,Amphitrite.,45.0
+1854-03-30,New York,La Habana,"frag, nin.",John Benson,33.0
+1854-04-07,o Greenok,La Habana,frag. ing.,Gartaber,55.0
+1854-04-11,Liverpool,La Habana,"berg, esp.",Lucia,57.0
+1854-04-11,Mallorca,La Habana,beg. esp.,Americano,45.0
+1854-04-11,Mallorea,La Habana,brg. esp.,Astrea,41.0
+1854-04-12,MAA!laga,La Habana,sherg. esp.,Earique,49.0
+1854-04-19,Literpm,La Habana,barges.,Caria,49.0
+1854-04-19,Bardens,La Habana,berg. cap.,Nueve Luz,42.0
+1854-04-20,la CoruAA+-ty Pto Rico,La Habana,bet esp.,General Laborde,52.0
+1854-04-26,Nantes,La Habana,frag. trane.,Sophie Cezard,35.0
+1854-04-26,Now-Castle,La Habana,dinsberg. mecki.,Levintzour Telkendori,66.0
+1854-04-30,o Copenhague,La Habana,gol. dan.,Terpsicore,67.0
+1854-04-30,o Hamburgo,La Habana,herg. enn.,Maria,78.0
+1854-04-30,Buenos Aires,La Habana,frag esp.,Villa,86.0
+1854-05-02,11irl.ngen,La Habana,"berg, hot.",Zuiderzee.,51.0
+1854-05-02,Portland,La Habana,glier.,Ottoman,264.0
+1854-05-04,Buenos Aires,La Habana,dinsberg. p.,Viniante,41.0
+1854-05-06,Hambargo,La Habana,berg. esp.,Maria Eulalia,49.0
+1854-05-06,Santander,La Habana,berg. esp.,Nuevo BegoAA,46.0
+1854-05-07,Buenos Aires,La Habana,berg. esp.,Felipe,45.0
+1854-05-07,Buenos Aires,La Habana,berg esp.,Joven Dolores,42.0
+1854-05-07,Santander,La Habana,gol. am.,Ga'ga,45.0
+1854-05-07,Santander,La Habana,fine. esp,Nicolasa,47.0
+1854-05-09,Boston,La Habana,trag. sicuiana,Anonima,32.0
+1854-05-09,Amsterdam,La Habana,fing hol.,Chrastinn,52.0
+1854-05-11,Malloren,La Habana,frag. cap.,Amalia,55.0
+1854-05-13,New Castle,La Habana,frag. in.,Walter R. Jones,51.0
+1854-05-13,Santander,La Habana,frag. cap.,Paquita.,45.0
+1854-05-19,New Castle,La Habana,frag. ing.,Priscilla,61.0
+1854-05-19,Fiererikshaven,La Habana,herg. danes,Mereur,71.0
+1854-05-19,Amsterdam,La Habana,goi. hol.,Pomona,65.0
+1854-05-20,Cadiz,La Habana,fing. p,An Teresa,37.0
+1854-05-21,New-Port,La Habana,feng. amer.,Charlotte Reed,57.0
+1854-05-23,Liverpol,La Habana,berg. am.,Rivulet,36.0
+1854-05-25,Hamburgo,La Habana,beig. esp.,Maria,41.0
+1854-05-25,Buenos Aires,La Habana,gol. exp.,Anita,55.0
+1854-05-25,Santander,La Habana,frag. esp.,Carolina,54.0
+1854-05-25,Santander,La Habana,berg. esp.,Latonero,44.0
+1854-05-31,l Havre,La Habana,berg. frane.,Jean Charles,66.0
+1854-05-31,Bremen,La Habana,berg. esp.,Jupiter,43.0
+1854-05-31,a New Castle,La Habana,diasfrag. ing.,Ariadne,72.0
+1854-05-31,Amberes,La Habana,frag. belga,Europa,67.0
+1854-05-31,Frederickshaven,La Habana,gl. dan.,Christian,73.0
+1854-05-31,Liverpool,La Habana,frag. ing.,Laura,50.0
+1854-06-04,Liverpol,La Habana,fug ing,My,50.0
+1854-06-07,Sunderland,La Habana,frag. ing,KingFisher,125.0
+1854-06-10,Santander,La Habana,diasberg esp.,Paco,51.0
+1854-06-15,Santander,La Habana,frag. esp.,Paquita,33.0
+1854-06-15,Santander,La Habana,"pol, cap.",Bellamina,47.0
+1854-06-25,Montevideo,La Habana,pol. esp.,Casimira,66.0
+1854-06-25,Baltimore,La Habana,fagam.,Ortowa,33.0
+1854-07-01,Liverpool,La Habana,"berg, eap.",Ntra. Sra,43.0
+1854-07-01,Malloren,La Habana,pol. cap.,Leonor,51.0
+1854-07-01,Santander,La Habana,pol. esp.,Balbina,43.0
+1854-07-02,Barcelona,La Habana,frag. esp.,Diogenes.,57.0
+1854-07-05,Swatow,La Habana,frag. hol.,Comereleele Company,112.0
+1854-07-06,Marsela,La Habana,frug franc.,Pauline,65.0
+1854-07-06,New-Port,La Habana,frag. finne.,I.'Amelie,53.0
+1854-07-07,Glasgow,La Habana,frag. exp.,General Mina,60.0
+1854-07-09,o San Sebastian,La Habana,berg. esp.,Nuevo Carmencita,43.0
+1854-07-12,San Sebastian,La Habana,berg. exp.,Bigarrenn,41.0
+1854-07-15,Vigo,La Habana,berg. exp.,Dos Hermanos,58.0
+1854-07-16,Hartlepool,La Habana,fran. dau.,Johannes Inge,45.0
+1854-07-19,MAA!laga,La Habana,berg. orp.,Manuel Barzo.,72.0
+1854-07-30,Bilbao,La Habana,"gol, esp",Amelia,40.0
+1854-07-30,Cayenne,La Habana,berg. frane.,St. Nakaire,31.0
+1854-08-03,o Liverpool,La Habana,frag. dan,Neptune,47.0
+1854-08-04,Cardiff,La Habana,berg. finnc.,Pharamond,63.0
+1854-08-08,o Santander,La Habana,frag. es.,Preciosa.,62.0
+1854-08-10,o Montevideo,La Habana,pol cap.,Leonor,60.0
+1854-08-15,Canarias,La Habana,berg. cap.,Dos,31.0
+1854-08-17,CAA!diz,La Habana,corbeta de,S. M. Villa,40.0
+1854-08-18,o Buenos Aires,La Habana,pol. esp.,Rovira,70.0
+1854-08-22,Mallorca,La Habana,fing. ep.,Providencin,51.0
+1854-08-23,CAA!d z,La Habana,"frag, esp.",Petroniln,36.0
+1854-08-24,Grargow,La Habana,berg .,Elizabeth,56.0
+1854-08-25,o Montevideo,La Habana,frag. cap.,Paquete,60.0
+1854-08-27,a Liverpool,La Habana,feng. esp.,Josefina,49.0
+1854-09-03,Santander,La Habana,berg. esp.,Dos Adelaidas,47.0
+1854-09-03,antander,La Habana,berg. esp.,Magro,39.0
+1854-09-05,l Havre,La Habana,frag. frane.,Alexandra,64.0
+1854-09-08,Montevideo,La Habana,berg. cap.,Berafin,69.0
+1854-09-09,Harlingen,La Habana,berg. holand.,Zuiderzee,53.0
+1854-09-12,Amberes,La Habana,berg. eso,Pizarro,31.0
+1854-09-20,l Havre,La Habana,"frag, esp.",Elvira,45.0
+1854-09-21,A Cienfuegos,La Habana,gol eap.,Victorin,33.0
+1854-10-05,Burdeos,La Habana,frag. franc.,Bella Cubana,50.0
+1854-10-07,Liverpool,La Habana,fragata ing.,Ingleborough,55.0
+1854-10-22,Montevideo,La Habana,berg. cap.,Constante,79.0
+1854-10-28,Bilbao,La Habana,berg. esp.,Teresa,60.0
+1854-10-28,Buenos Aires,La Habana,berg. esp.,Drak.a,77.0
+1854-11-02,l Have,La Habana,berg. esp.,Neptuno,55.0
+1854-11-03,Aspinwall,La Habana,gol. am.,Hornet,38.0
+1854-11-03,o Santander,La Habana,frag. esp,Carolina,60.0
+1854-11-04,la CoruAA+-a,La Habana,frag. esp,Teresa,45.0
+1854-11-04,Melage,La Habana,frag op,San AndrAA,44.0
+1854-11-04,Liverpool,La Habana,frag esp.,Perfects,67.0
+1854-11-05,Burdeos,La Habana,herg. esp.,Eva,46.0
+1854-11-05,Santander,La Habana,berg. cap.,Alerta,54.0
+1854-11-05,Amberes,La Habana,berg. cap.,Amada,44.0
+1854-11-05,Liverpool,La Habana,beig. esp.,Chimbo,53.0
+1854-11-05,Santander,La Habana,berg. esp.,Javiera,54.0
+1854-11-05,o Santan ter,La Habana,fag. esp.,Nico-ass,48.0
+1854-11-05,Tenerife,La Habana,berg. erp.,Trueno,50.0
+1854-11-07,Liverpool,La Habana,din-berg. esp.,Ntra. Sra,41.0
+1854-11-08,Barcelona,La Habana,frag. erp.,Hortensia,67.0
+1854-11-09,+ De Ams ordim,La Habana,here. hol.,Havana Packet,40.0
+1854-11-09,o Montevider,La Habana,frng. caitena,Marianita,74.0
+1854-11-10,Liverpool,La Habana,berg. esp.,Armonia,91.0
+1854-11-14,Barcelona,La Habana,dias,(rag.,56.0
+1854-11-16,New Castle,La Habana,frag. fane.,Havannais,85.0
+1854-11-24,a Montevideo,La Habana,polag.,Ro.u,50.0
+1854-11-24,o Santander,La Habana,frag.,DoAA,43.0
+1854-11-25,Bremen,La Habana,gol esp,Anita,47.0
+1854-12-03,o Bao os Aires,La Habana,frag. cap.,Nueva O-iris,63.0
+1854-12-08,Amberes,La Habana,frag. belga,Quentin Meteye,61.0
+1854-12-10,Barcelona,La Habana,berg. esp.,Justo,56.0
+1854-12-12,.Do Amsterdam,La Habana,"berg, hol",Jannete,45.0
+1854-12-14,a Amberes,La Habana,pol. esp.,Providencia,50.0
+1854-12-14,Boston,La Habana,berg. am.,Russian,32.0
+1854-12-19,Santander,La Habana,frag. ep.,Catalina Fomento,40.0
+1854-12-19,Buenos Aires,La Habana,berg. cip.,Caridad,60.0
+1854-12-21,Buenos Airea,La Habana,frag. cap.,Ainalia,61.0
+1854-12-21,Tream,La Habana,frug. ing.,Eizntethreup Brown,47.0
+1854-12-23,o Barcelona,La Habana,borg. esp.,San JosAA,51.0
+1854-12-26,Mallorca,La Habana,berg. esp.,Lealtad.,55.0
+1854-12-26,Liveppool,La Habana,"lerg, esp.",Fausti:,57.0
+1858-01-10,GAA(c)nova,La Habana,pol. esp.,Angelita,55.0
+1858-01-13,Gibraltar,La Habana,frag. am.,Tinos,31.0
+1858-01-17,o Barcelons,La Habana,frag. cap.,DiAA,42.0
+1858-01-22,la CoruAA+-a,La Habana,frag. esp.,Nneva Luisa,44.0
+1858-01-26,Gijon,La Habana,berg. cap.,Musel.,54.0
+1858-01-26,Liverpool,La Habana,"frag, esp.",Arizona,54.0
+1858-01-26,Santander,La Habana,berg. esp.,Pronto,43.0
+1858-02-14,. Santander,La Habana,berg. cap.,Laureana Rita.,44.0
+1858-02-14,Barcelona,La Habana,pol. sp.,Teresa,52.0
+1858-02-14,Bremen,La Habana,berg. brenAAos,Mazzeppa.,73.0
+1858-02-16,Bilbao,La Habana,frag. e.,Pilita,49.0
+1858-02-16,Bristol,La Habana,"frag, amer.",Pursuit,46.0
+1858-02-23,Rotterdam,La Habana,queche bol.,Fortuna,52.0
+1858-02-23,New Castle,La Habana,traz. ing.,N. Ambassador,85.0
+1858-02-25,Madao,La Habana,frag. ing.,Dreau,100.0
+1858-02-25,New-Castle,La Habana,frag. inglern,Venus,72.0
+1858-02-25,New-eastle,La Habana,frag. inglesa,Sarepta,65.0
+1858-02-25,Marsella,La Habana,berg. ing.,Suxes,43.0
+1858-02-27,New Castle,La Habana,frag. ing.,Mary Hall,86.0
+1858-02-27,Shields,La Habana,frag. noruega,Julis.,58.0
+1858-02-27,Liverpool,La Habana,frag. ing.,Tyne,80.0
+1858-02-27,New Castle,La Habana,berg. hol.,Marie,64.0
+1858-02-27,New Castle,La Habana,frag. ing.,Island Queen,70.0
+1858-03-06,Santander's Caba,La Habana,berg. eg.,Dos Adelaidas,35.0
+1858-03-12,Mallorca,La Habana,berg. exp.,Brillante,55.0
+1858-03-13,"o Hartlepool,",La Habana,berg. dan.,Christian,60.0
+1858-03-16,Do Parcelona,La Habana,frag. esp.,Isabel,47.0
+1858-03-19,Barcelona,La Habana,berg. esp.,Julito.,42.0
+1858-03-19,New-Port,La Habana,frag. noruega,Swea.,47.0
+1858-03-19,Shields,La Habana,iraz. ing.,Mary Louisa,65.0
+1858-03-24,Burdeos,La Habana,berga. esp.,Rainon.,42.0
+1858-03-31,Glasgow,La Habana,"frag, am.",Johu Morvick,47.0
+1858-03-31,l Harre,La Habana,frag frauc.,Pescatore,48.0
+1858-03-31,l Havre,La Habana,frag. am.,Herbert,39.0
+1858-04-01,Shields,La Habana,"wasberg, raso",Nendes,71.0
+1858-04-06,Bremen,La Habana,berg. exp.,Clara,57.0
+1858-04-15,Caristiansand,La Habana,gol. noruega,Sridderen,63.0
+1858-04-15,Shields,La Habana,frag. ing.,James Montgomery,90.0
+1858-04-15,Bristol,La Habana,frag. dauesa,Alexander,70.0
+1858-04-15,Amberes,La Habana,"berg, brem.",Josephina,62.0
+1858-04-16,Us Amberve,La Habana,berg. aust.,Erpent,66.0
+1858-04-20,CAA!diz,La Habana,frag. esp.,Isabel,41.0
+1858-04-20,New Castle,La Habana,frag. aust.,N. Klas,63.0
+1858-04-20,Cardiff,La Habana,"fra, sueca",Marguerite,71.0
+1858-04-24,Barcelona. Cartagena,La Habana,"gol, esp.",Jacinta,61.0
+1858-04-25,Mallorca,La Habana,"frag, esp.",MariA,64.0
+1858-05-05,"CAA!diz,",La Habana,"frag, esp.",Tetis,44.0
+1858-05-05,Santander,La Habana,fraz. esp.,Hermosa,45.0
+1858-05-06,Cardiff,La Habana,frag. ing.,Kate Erelin,71.0
+1858-05-07,Buenos Aires,La Habana,pol. esp.,Sotia,44.0
+1858-05-07,Leith,La Habana,berg. dan.,Brassillaren,42.0
+1858-05-07,Macao,La Habana,"frag, franc.",St. Jean,126.0
+1858-05-13,Tenerife,La Habana,"herg, esp.",(oueba,33.0
+1858-05-13,Buenos Aires,La Habana,berg. exp.,Lepanto,99.0
+1858-05-13,Macao,La Habana,fraz. peruana,Don Julian,109.0
+1858-05-13,Dandre,La Habana,berg ing.,Lord Harding,63.0
+1858-05-14,Santander,La Habana,berg esp.,San MamAA,50.0
+1858-05-14,AvilAA(c)s,La Habana,berg. esp.,Socorro,55.0
+1858-05-14,MAA!laga,La Habana,frag. esp.,AAA,46.0
+1858-05-16,Barcelona,La Habana,frag. esp.,Teresita.,57.0
+1858-05-18,la CoruAA+-a,La Habana,frag.esp.,Josefina Matilde,49.0
+1858-05-21,Liverpool,La Habana,frag. esp.,Felipa,50.0
+1858-05-21,Cardiff,La Habana,berg. haunov.,Minna,61.0
+1858-05-21,Calcuta,La Habana,frag. amer.,John Knox,110.0
+1858-06-16,Santander,La Habana,frag. esp.,Castilla,36.0
+1858-07-06,CAA!diz,La Habana,frag esp,Diaua,44.0
+1858-07-06,Julio 5 De Bangor,La Habana,berg am.,President.ca,34.0
+1858-07-06,Switao,La Habana,frag. am.,Competitor,98.0
+1858-07-13,o Glasgow,La Habana,berg. esp.,Bartolo,60.0
+1858-07-13,GAA(c)nova,La Habana,berg. sardo,Eduardo,60.0
+1858-07-16,Liverpool,La Habana,berg. esp.,Luisito,163.0
+1858-07-16,Harcelona,La Habana,frag. esp.,JAA,47.0
+1858-08-10,Cardiff,La Habana,frag- lug.,Hyndeford.,44.0
+1858-08-12,Nueva York,La Habana,berg amer.,George Albert,91.0
+1858-08-13,Cidiz,La Habana,berg. eap.,IntrAA,47.0
+1858-08-28,Agosto -De Hamburgo,La Habana,"frag, eep.",Pilia,49.0
+1858-08-29,San Sebastian,La Habana,"frag, esp.",Lasarte,46.0
+1858-08-29,Liverpool,La Habana,liasberg. esp.,Paquete Habana,50.0
+1858-09-02,Sevilla,La Habana,berg. ep.,Claro,31.0
+1858-09-29,San Juan de Terranova,La Habana,berg. ing.,Friends,32.0
+1858-10-05,Liverpool,La Habana,frag esp.,Secundina,54.0
+1858-10-05,Liverpool,La Habana,frag. esp.,Casis,50.0
+1858-10-05,CAA!diz,La Habana,frag. eap.,Eloisa,42.0
+1858-10-05,CAA!diz,La Habana,herg. esp.,CristAA,41.0
+1858-10-05,Liverpool,La Habana,"berg, esp.",(leneroso,56.0
+1858-10-13,o Aslesand,La Habana,berg. so,Experinzz.,61.0
+1858-10-15,Amberes,La Habana,berg. esp.,Providencia,52.0
+1858-10-15,Amberes,La Habana,berg. ean.,Piedad,63.0
+1858-10-16,Bardeos,La Habana,berg. esp.,San NicolAA!s,60.0
+1858-10-23,Buenos Asres,La Habana,pal. esp.,Rosario,47.0
+1858-11-02,Buenos Al es,La Habana,berg. esp.,Pablito,60.0
+1858-11-05,Liverpool,La Habana,frag esp.,Secundina,54.0
+1858-11-05,Liverpool,La Habana,frag. esp.,Casis,50.0
+1858-11-05,CAA!diz,La Habana,frag. eap.,Eloisa,42.0
+1858-11-05,CAA!diz,La Habana,herg. esp.,CristAA,41.0
+1858-11-05,Liverpool,La Habana,"berg, esp.",(leneroso,56.0
+1858-11-06,Santander,La Habana,berg eep,Juanita,55.0
+1858-11-12,Bremen,La Habana,pol. cap.,Pepita,82.0
+1858-11-12,"ZO.
+Ja.
+De Santander",La Habana,berg. esp.,Latonero,50.0
+1858-11-16,CAA!diz,La Habana,frag. esp,Habana,57.0
+1858-11-18,Card.ff,La Habana,frag. dan.,Carolina,61.0
+1858-11-18,Hamburgo,La Habana,berg. esp.,Isabel,55.0
+1858-11-20,Mallorca,La Habana,berg esp.,Saa BartolomAA,55.0
+1858-11-20,Santander,La Habana,frag. esp.,DoAA,47.0
+1858-11-20,Barco'ons,La Habana,"fraz, esp.",Vicenta,60.0
+1858-11-21,Bardeon,La Habana,frag francesa,L. Allel,53.0
+1858-11-21,Bilbao,La Habana,berg. cap.,BeroatAA,60.0
+1858-11-21,New Port,La Habana,fragata amer.,Marasba Anna,42.0
+1858-11-21,Liverpool,La Habana,frag. am.,Anuawar,62.0
+1858-11-25,Buenos Aires,La Habana,pol. esp.,Leamer,65.0
+1858-11-26,Troon,La Habana,frag. am.,W. Woodsides,61.0
+1858-11-28,ala CoruAA+-a,La Habana,frag. esp.,SoAA,51.0
+1858-11-28,Barcelona,La Habana,frag. esp.,Siempreviva,79.0
+1858-12-01,Santander,La Habana,barg. cap.,Furia,64.0
+1858-12-01,Santander,La Habana,fraz. eo.,Hermosa,47.0
+1858-12-05,Sevilla,La Habana,berg eap.,Morgan,47.0
+1858-12-05,Liverpool,La Habana,berg. eap.,Santa Cruz,42.0
+1858-12-05,Liverpool,La Habana,frag. eo.,Aa6a,33.0
+1858-12-05,Santander,La Habana,frag. esp.,Buenaventura,53.0
+1858-12-07,o Glasgow,La Habana,berg. esp.,Centinela,50.0
+1858-12-07,Vigo,La Habana,berg.esp,Nuevo FAA,52.0
+1858-12-07,Amberes,La Habana,frax am.,Harvest,42.0
+1858-12-15,BrAA(c)men,La Habana,berg. esp.,Isabel Elguteria.,51.0
+1858-12-15,l Havre,La Habana,frag. st.,Josefina,48.0
+1858-12-19,o San Sebastian,La Habana,berg. ap.,Nuevo Carmencita,44.0
+1858-12-21,Mallorca,La Habana,frag. esp.,Marieta,63.0
+1858-12-22,Santander,La Habana,frag cap.,JosAA,45.0
+1858-12-23,Bardeos,La Habana,frag. ep.,Predencia,42.0
+1858-12-23,Troon,La Habana,borg. am.,Richard Brown,59.0
+1858-12-23,a Amberes,La Habana,fraz. am.,Orphan,48.0
+1859-01-05,Burdeos,La Habana,"frag, am.",A. Cooper,45.0
+1859-01-05,Santander,La Habana,fras. cap.,O.,47.0
+1859-01-08,Mallores,La Habana,pal. esp.,Morey,67.0
+1859-02-19,BrAA(c)men,La Habana,frax. brem.,Rebecca.sa,65.0
+1859-02-19,Leith,La Habana,berg. dan.,Elizabeth,54.0
+1859-02-19,Cardiff,La Habana,berg. austriaco,Ljubica.,43.0
+1859-02-22,Pebrero 21. De Mallorca,La Habana,frag. esp.,Cora,42.0
+1859-02-22,Rivadeo,La Habana,gol. cap.,Juliana,43.0
+1859-02-22,Cardiff,La Habana,frag. prus.,Preuse,45.0
+1859-02-22,Cardiff,La Habana,diaspol. aust,Dussan.,46.0
+1859-02-26,Be CAA!diz,La Habana,frag. esp.,Santa Petronila,31.0
+1859-02-26,"UP
+De Christiansud",La Habana,berg. nor.,Ole Vig,61.0
+1859-03-01,- CAA!d z,La Habana,berz. ep.,Augnato,31.0
+1859-03-04,"EDES:28888
+De Tarragona",La Habana,pol. esp.,Victoria,52.0
+1859-03-22,CAA!diz,La Habana,frag. esp.,Hispano-Cubana,31.0
+1859-03-29,Barcelona,La Habana,berg. sp.,Eolo.,47.0
+1859-03-29,CAA!diz,La Habana,navio de,S. M. Rey Francisco,41.0
+1859-03-31,Bue os Aires,La Habana,borg. cap.,Viajero.,42.0
+1859-04-07,o Burdeos,La Habana,"berg, esp.",Dolores,31.0
+1859-04-07,o Santauder,La Habana,herg cap.,Faro,46.0
+1859-04-21,Santander,La Habana,berg. cep.,Chimbo,61.0
+1859-04-21,Santander,La Habana,berg. esp.,FAA,32.0
+1859-04-24,Shields,La Habana,frar. lug.,Mary Louisa,91.0
+1859-05-15,Barcelona,La Habana,fraz. esp.,Polar,51.0
+1859-05-15,CAA!diz,La Habana,berg. eap,Ricardo,44.0
+1859-05-15,CAA!diz,La Habana,fraz esp.,Euriqueta,40.0
+1859-05-17,Buenos Aires,La Habana,"pol, esp.",Pastorcits,51.0
+1859-05-17,8 De Liverpool,La Habana,fraz. esp.,CAA!rmen,72.0
+1859-05-17,Amberes,La Habana,berg. eap.,Piedad,85.0
+1859-05-17,Santander,La Habana,"frag, esp.",Buenaventura,65.0
+1859-05-17,Mallorca,La Habana,fraz. esp.,Hernan Cortes,33.0
+1859-05-17,Rotterdam,La Habana,gol. hol.,Arends,50.0
+1859-05-17,Milaga,La Habana,berg. esp.,Trinidad Primera,40.0
+1859-05-22,Cardiff,La Habana,diasfrag. aust,Carolina Visin,60.0
+1859-05-29,BrAA(c)men,La Habana,berg. exp.,Aronoe.,57.0
+1859-05-29,BrAA(c)men,La Habana,berg. esp.,Clara.,61.0
+1859-05-29,Liverpool,La Habana,berg. eep,Secundina,58.0
+1859-05-29,a Buenos Airea,La Habana,pol. exp.,Rosario,47.0
+1859-05-29,Liverpool,La Habana,here. eap.,Abanrret.,45.0
+1859-05-31,Santander,La Habana,frag. cap.,Cervantes,65.0
+1859-06-12,BrAA(c)ice,La Habana,"frag, emr.",Amelia,46.0
+1859-06-12,Amberes,La Habana,berg. balga,Joseph.,102.0
+1859-06-12,Burdeos,La Habana,berg. esp.,Sau JorAA,34.0
+1859-06-14,Sunderland,La Habana,berg.ing.,Williams Thomas,61.0
+1859-06-21,Mallorca,La Habana,pol eap.,Atenas,73.0
+1859-06-21,Barcelona,La Habana,frag. exp.,Buenaventura,63.0
+1859-06-21,AmbAA(c)res,La Habana,berg ing.,John,163.0
+1859-06-26,Canton,La Habana,frag. franc.,Villede Dieppe,110.0
+1859-06-26,Santander,La Habana,berg. esp.,JAA,60.0
+1859-06-29,Troon,La Habana,frag. ing.,Auchneag,49.0
+1859-06-30,CAA!diz,La Habana,frag. eap.,Casilda,34.0
+1859-07-05,Liverpool,La Habana,"berg, esp.",Maria Juana,36.0
+1859-07-24,Mallorca,La Habana,nol. esp.,Catalina,65.0
+1859-07-24,Mallorca,La Habana,pol. esp.,CAA!rmen (6,71.0
+1859-07-24,a Liverpool,La Habana,faz. ep.,P. V.,43.0
+1859-08-06,Barcelona,La Habana,barg. esp.,Recurso,73.0
+1859-09-11,Liverpool,La Habana,frag. am.,Tempest,50.0
+1859-09-28,Liverpool,La Habana,frag amer.,C. S. Pennell,52.0
+1859-09-28,Santander,La Habana,frag. eep.,Nueva Luisa,51.0
+1859-09-28,Harlingen,La Habana,bers. hol.,Zuiderzee,51.0
+1859-10-04,AmbAA(c)res,La Habana,frag. balga,Bourse,60.0
+1859-10-07,Barcelona,La Habana,frag. esp.,Antonieta,82.0
+1859-11-18,Burdeos,La Habana,berg. esp.,BernabAA,43.0
+1859-11-22,De Santauder,La Habana,frag. esp.,Pepita,49.0
+1859-11-22,Mallorca,La Habana,frag. esp.,Espa,71.0
+1859-11-29,Guadalupe,La Habana,frag. franc,Phalanterre,66.0
+1859-11-29,Amberes,La Habana,berg. esp.,Piedad,54.0
+1859-11-30,Terranova,La Habana,freg. franc.,Nil,65.0
+1859-11-30,Santander,La Habana,frig. esp.,Hermosa,42.0
+1859-12-21,l Havre,La Habana,berg. esp.,Conchi.,40.0
+1859-12-21,Hamburgo,La Habana,berg. esp.,Isabel,55.0
+1859-12-21,Amberes,La Habana,frag. belea,Queentin Meters,40.0
+1859-12-23,Barcelona,La Habana,frag. eep,Magdalena,75.0
+1859-12-23,San Sebastian,La Habana,berg. esp.,Nuevo Carmen.,42.0
+1859-12-23,t Havre,La Habana,berg. esp.,Susana,53.0
+1860-01-22,o CAA!diz,La Habana,frag. cap.,Hispauo Cubana,39.0
+1860-01-22,o CAA!diz,La Habana,"frag, esp.",Manuels,35.0
+1860-01-31,o (Hargowy Arecibo,La Habana,berg. ing.,Lady Mathe,91.0
+1860-01-31,Hall,La Habana,frag. ing.,Sultana,62.0
+1860-02-02,Troon,La Habana,berg. ing.,Elisa,61.0
+1860-02-18,Marsella,La Habana,fragata fran,Spartacus,79.0
+1860-03-31,Rotterdam,La Habana,queclic hol.,Fortu,43.0
+1860-03-31,CAA!diz,La Habana,berg. esp.,Concepcion,43.0
+1860-03-31,la Oratava,La Habana,berg. esp.,Victoria,43.0
+1860-04-03,o CAA!diz,La Habana,berg esp.,Antouleta,42.0
+1860-04-03,Liverpool,La Habana,berg. ing.,Princess Royal,51.0
+1860-04-05,Tenerife,La Habana,fragata esp.,Vicendica.,32.0
+1860-04-05,Amsterdam,La Habana,"frag, hol.",Cuba Packet,44.0
+1860-04-15,a,La Habana,bea. esp.,Perfects,41.0
+1860-04-15,Os Vigo,La Habana,berg. sep.,Nuevo FAA,41.0
+1860-04-19,Hartlepool,La Habana,trag. dan.,Jorgen Besch,51.0
+1860-05-01,Greenock,La Habana,berg. ing.,Ideal,73.0
+1860-05-04,uernsey,La Habana,pall. ing.,Wheper,44.0
+1860-05-04,Buenos Aires,La Habana,pol eap.,Nicasia,73.0
+1860-05-15,Barcelona,La Habana,pol. esp.,Autonieta,33.0
+1860-05-30,Liverpool,La Habana,frag. am.,Erie,55.0
+1860-06-01,Sevilla,La Habana,berg. op.,Yuca,62.0
+1860-06-01,Barcelona,La Habana,"frag, esp.",Catala,60.0
+1860-06-01,CAA!diz,La Habana,frag. esp.,Observador.,45.0
+1860-06-10,New York,La Habana,"berz, amer.",J. P. Hooper,33.0
+1860-06-17,MAA! aga,La Habana,"frag, erp.",San AndrAA,48.0
+1860-06-28,San Sebastian,La Habana,berz. esp.,Paquete,50.0
+1860-06-28,Bilbao,La Habana,berg. esp.,Higinia,32.0
+1860-06-28,Wiscarcet,La Habana,herg. am.,Roamer,36.0
+1860-07-11,l Ferrol Tenerife,La Habana,frag. esp.,Pepita Visto,47.0
+1860-07-19,a Canarias,La Habana,berg. cap.,Amalis,31.0
+1860-07-19,Liverpool,La Habana,berg. eap.,Serafin,52.0
+1860-07-19,San Sebastian,La Habana,beca. esp.,MarAA,43.0
+1860-07-31,Barcelona,La Habana,frag. eap.,Polar,37.0
+1860-07-31,Tenerife,La Habana,bera. esp.,PuertoPranco,31.0
+1860-07-31,Da Mauila,La Habana,berg. eep.,Car,133.0
+1860-07-31,Ban Sebaslian,La Habana,berg. exp.,Nuevo Carmenci,45.0
+1860-08-03,a Amberes,La Habana,"berg, esp.",Amistad,63.0
+1860-08-03,Marsella,La Habana,frag. franc.,Gao,52.0
+1860-08-12,Datanarias CAA!rdenas,La Habana,gel erp,JAA,40.0
+1860-08-12,: Cariff,La Habana,frag. fran.,Aleycu,41.0
+1860-08-14,Barcelona,La Habana,fraz. esp.,Palma,60.0
+1860-08-14,Macao,La Habana,frag. franc.,Sigisbert,130.0
+1860-08-14,Canton,La Habana,"frag, esp.",Guadalupe.,183.0
+1860-08-14,Liverpool,La Habana,frag.,Ing. New-York Packet,53.0
+1860-08-21,Amberes,La Habana,diasberg helva,Oelius,65.0
+1860-09-04,o Monterides,La Habana,berg eap.,Nuero Martin,53.0
+1860-09-04,Del Havre,La Habana,barg esp.,Conchita,39.0
+1860-09-06,Bareloos,La Habana,frag. eap.,Jaruco,51.0
+1860-09-06,Barcelona,La Habana,frag erp,MalpAA,53.0
+1860-09-07,Barcelona,La Habana,fraz. esp,Teresita,96.0
+1860-09-07,"Fr
+DBarcelona",La Habana,frag op.,Florida Blanca,42.0
+1860-09-28,Harlingen,La Habana,berg. hol.,Zuiderzee.,58.0
+1860-09-30,Santander,La Habana,berg. esp.,Pronto,40.0
+1860-09-30,Christianernd,La Habana,berg. eap.,Artu Emon,47.0
+1860-10-24,l Havre,La Habana,frag. f.zor.,Matburia Cor,76.0
+1860-11-16,Burdeos,La Habana,frag. p.,Prudencia,42.0
+1860-11-23,Buenos Aires,La Habana,barg esp.,Laureano,57.0
+1860-11-24,o CAA!diz,La Habana,berg. esp.,Lopez Conejero,43.0
+1860-11-24,Fantander,La Habana,berg. eed.,Nuevo Bilbaino,31.0
+1860-11-24,Liverpool,La Habana,frag esp.,Virgon,65.0
+1860-12-13,CAA!diz,La Habana,frag erp,Minerva,45.0
+1860-12-13,Vig,La Habana,berg. eap.,Nuevo FAA,51.0
+1860-12-13,Cardiff,La Habana,"dlantrag, am.",Acacia,42.0
+1860-12-13,New Orleans,La Habana,vaporam.,Habana,56.0
+1860-12-13,Aalesund,La Habana,"gol, danera",Aeolus,52.0
+1860-12-16,Amberes,La Habana,frag. amer.,Sebas,57.0
+1860-12-16,is CoruAA+-a,La Habana,borg. esp.,Firme,63.0
+1860-12-16,Santander,La Habana,pol. osp.,Juanita,48.0
+1860-12-16,Barcelona,La Habana,"frag, esp.",MarAA,75.0
+1860-12-16,Santander,La Habana,frag. esp.,Tita,62.0
+1860-12-19,Rivadesella,La Habana,pol. cap.,Pora,48.0
+1860-12-19,New-Port,La Habana,berg. sueco,Adels,40.0
+1860-12-23,Buenos Aires,La Habana,pol. esp.,San Antonio,61.0
+1860-12-23,New-Port,La Habana,berg. am.,C. D. Pierce,59.0
+1860-12-26,Barcelona,La Habana,pal cap.,Angels,60.0
+1860-12-26,Bilbao,La Habana,"berg, erg.",Algorta,64.0
+1860-12-28,CAA!diz,La Habana,berg. eap.,Concepcion,41.0
+1860-12-28,Glasgow,La Habana,irag. am.,Muskinguu.,48.0
+1860-12-28,Cardiff,La Habana,frag. am.,George,55.0
+1860-12-28,a New-Port,La Habana,frag. ing.,Kate Swaton,48.0
+1860-12-28,Santander,La Habana,berg. esp.,Antonio,74.0
+1864-01-24,Buenos Aires,La Habana,berg. esp.,Nicasia,41.0
+1864-01-28,MartiDe Barcelona,La Habana,"frag, esp.",JosAA,41.0
+1864-01-28,Buenos-Aires,La Habana,borg. cap.,Aristiles,61.0
+1864-01-28,l Havre,La Habana,"frag, esp.",Paqueto,57.0
+1864-01-28,o Barcelona,La Habana,frag. cap.,Nuestra SoAA,51.0
+1864-02-02,Montevideo,La Habana,pol. esp.,Parutons,55.0
+1864-02-02,Leith,La Habana,berg. italiano,Arlequino,71.0
+1864-02-02,o Liverpool,La Habana,frag. ing.,Zenobia,63.0
+1864-02-02,Liverpool,La Habana,"frag, sneca",William,64.0
+1864-02-09,Cardiff,La Habana,berg. succo,Betty,33.0
+1864-02-12,Barcelona,La Habana,"berg, p.",VAA,52.0
+1864-02-12,Liverpool,La Habana,barg. ing.,St. George,55.0
+1864-02-12,Cadis,La Habana,frag. esp.,Manuela,42.0
+1864-02-14,"Rotterdam,",La Habana,"berg, holandes",Ceres,43.0
+1864-02-14,Liverpool,La Habana,berging.,Santamar,58.0
+1864-02-14,Santander,La Habana,"frag, esp.",JAA,39.0
+1864-02-16,Valencia,La Habana,berg. esp.,Cid.,52.0
+1864-02-18,New-York,La Habana,gol. ing.,Indus,90.0
+1864-02-23,Liverpool,La Habana,ben. esp.,Clementina,54.0
+1864-02-23,o Montevideo,La Habana,frag. esp.,Sirena,65.0
+1864-03-04,s Macao,La Habana,fragata portuz.,VasC,108.0
+1864-03-04,o Cardiff,La Habana,"berg, sueco",Hiram,53.0
+1864-03-04,Cardiff,La Habana,"berg, nor.",Shamrock,60.0
+1864-03-04,Cardiff,La Habana,"frag, rusa",Chatarina,55.0
+1864-03-04,o Terranova,La Habana,beig. ing.,Helena,36.0
+1864-03-04,Liverpool,La Habana,frag. ing.,Coral Isle,50.0
+1864-03-11,Shields,La Habana,"frag, ing.",Cameo,70.0
+1864-03-11,"D.
+De CAA!liz",La Habana,"fraz, esp.",CAA!rmen,51.0
+1864-03-12,Bilbao,La Habana,frag. cap.,Maria Julia,45.0
+1864-03-13,Nordmaling,La Habana,"frag, nor.",Christiana.,72.0
+1864-03-17,Glasgow,La Habana,frag. fug.,Simmetry,39.0
+1864-03-17,Santander,La Habana,frag. esp.,Observador,40.0
+1864-03-17,l Havre,La Habana,berg. esp.,Hermoso Habanero,57.0
+1864-03-17,Liverpool,La Habana,frag. ing.,H. D. Shepherd,56.0
+1864-03-19,Valencia,La Habana,"frag, eap.",JAA,46.0
+1864-03-22,l Havre,La Habana,"frag, franc.",Suzanne,50.0
+1864-03-22,Swansea,La Habana,berg. prusiano,Drei Straleu,73.0
+1864-03-27,Ostende,La Habana,berg. belga,Le Coq.,39.0
+1864-03-27,Cardiff,La Habana,berg. sueco,Fanny,51.0
+1864-04-12,Macao,La Habana,"frag, portag.",D. Fernan,97.0
+1864-04-21,o Hiron Myen,La Habana,borg. noruego,Toritouskjold,70.0
+1864-04-26,o Macao,La Habana,frag. esp.,Arizona,120.0
+1864-04-26,Cardiff,La Habana,frag. speca,Magdaleua,35.0
+1864-04-26,Cardiff,La Habana,"frag, fran.",Ville,60.0
+1864-04-30,Glasgow,La Habana,"frag, lug.",Greenock,35.0
+1864-05-08,Liverpool,La Habana,frag. ing.,Alexander,70.0
+1864-05-10,Amsterdam,La Habana,gel. hol.,Catharina Cornelia,51.0
+1864-05-10,Londres,La Habana,berg. ing.,Zircon,50.0
+1864-05-12,Cardiff,La Habana,frag. frane.,Emilienno,55.0
+1864-05-18,o Christiansund,La Habana,gol. nor.,Jaue,85.0
+1864-05-20,Cardiff,La Habana,frag. sueca,Catharina,54.0
+1864-05-29,Valencia,La Habana,"borg, esp.",Clementiua,54.0
+1864-06-04,Liverpool,La Habana,frag. ing.,Oriska,51.0
+1864-06-12,Bremen,La Habana,"berg, esp.",Teresita,56.0
+1864-06-14,Liverpool,La Habana,frag. ing.,Queen,47.0
+1864-06-15,CAA!diz,La Habana,berg. esp.,MoisAA,45.0
+1864-06-19,Mallorca,La Habana,pol. esp.,Columbus,50.0
+1864-08-18,o Cardiff,La Habana,frag. fran.,Constance,44.0
+1864-08-18,l Havre,La Habana,berg. esp.,Susana,37.0
+1864-08-24,New Poit,La Habana,barca franc.,Marie Amalie,48.0
+1864-08-24,Santander,La Habana,corb. esp.,T. O:,44.0
+1864-08-25,o Santander,La Habana,corb. esp,Carolina,36.0
+1864-08-25,Santander,La Habana,barca esp.,Paquete,40.0
+1864-08-25,C.,La Habana,gol. cap.,Elena,36.0
+1864-09-21,Canarisa,La Habana,borg. esp.,Las Palmas,35.0
+1864-09-21,a Barcelona,La Habana,barca esp.,Pepina,48.0
+1864-09-22,Liverpool,La Habana,otrb. esp.,E198,38.0
+1864-09-22,o Thronobjem,La Habana,gol. nor.,Merchurius,60.0
+1864-09-22,"Ja
+De Boston",La Habana,berg. ing.,Protege,31.0
+1864-09-28,Amberes,La Habana,frag. belga,Helene,51.0
+1864-09-28,Santander,La Habana,"berg, esp.",Sm NicolAA!s,32.0
+1864-09-29,> Boston,La Habana,corb. ing.,Jane,31.0
+1864-09-29,Cardiff,La Habana,bea. ing.,Seuiari,62.0
+1864-10-02,iverpool,La Habana,corb. ing.,Ange Kay,42.0
+1864-10-02,Ma lorea,La Habana,corb. csp,Constancia,35.0
+1864-10-19,Glasgow,La Habana,barea pius.,Flinke,63.0
+1864-10-26,Bardena,La Habana,barca esp,Prudencia,47.0
+1864-10-30,AC/A!A<<e Santander,La Habana,"berg, eap.",Faustina,53.0
+1864-10-30,li Cornbay Puerto Rico,La Habana,corb. cap.,Nemesia,76.0
+1864-11-01,o Sa Sebastian,La Habana,barca esp.,Maria,53.0
+1864-11-01,Montevideo,La Habana,berg. cap.,JAA,55.0
+1864-11-02,CAA!diz,La Habana,corh. esp.,Manolita,43.0
+1864-11-02,Barcelona,La Habana,frar. esp.,Valparaiso,66.0
+1864-11-18,la Corufia,La Habana,berg. oap.,Sczunda Porla,58.0
+1864-11-22,Newport,La Habana,bea. ing.,Margaret Kerr,53.0
+1864-11-22,Cardiff,La Habana,"frag, ing.",Majestio,57.0
+1864-11-25,Glasgow,La Habana,berg. cap.,Salvo,91.0
+1864-12-09,a Santander,La Habana,berg. esp.,Riancho,37.0
+1864-12-09,Buenos Aires,La Habana,pol. cap.,India,68.0
+1864-12-09,Tenerife,La Habana,frag. osp.,Josefina,62.0
+1864-12-09,Santander,La Habana,corb. cap.,Pepita,53.0
+1864-12-10,Amberes,La Habana,frag esp,Fiel,74.0
+1864-12-10,Gefle,La Habana,frag. nor.,Regina,92.0
+1864-12-16,Montevideo,La Habana,corb. esp.,PiAA!cida Baxareo,61.0
+1864-12-16,Barcelona,La Habana,corb. esp.,Lo,41.0
+1864-12-16,Buenos Aires,La Habana,corb. esp.,Ciudadelano,47.0
+1864-12-17,Barcelona,La Habana,berg. esp.,Principe,46.0
+1864-12-17,CAA!diz,La Habana,corb esp.,Abnegacion,43.0
+1864-12-17,Barcelona,La Habana,frag. cep..,Anita,45.0
+1864-12-20,Amberes,La Habana,corb. bol.,Anna Krell,52.0
+1864-12-20,139 mDe Gefe,La Habana,corbeta sueca,Sir Charl's,131.0
+1864-12-20,o Barcelona,La Habana,frag. esp,Hernan CortAA,79.0
+1864-12-23,o Newport,La Habana,frag. ing.,JAA!pi.,50.0

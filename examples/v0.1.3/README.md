@@ -77,6 +77,60 @@ template = ReportTemplate(sections=sections)
 - ✅ Múltiples secciones CUSTOM
 - ✅ Colores corporativos
 
+### 06_mysql_aerolineas.py
+**Conexión a MySQL** con datos reales de aerolíneas:
+- ✅ Conexión a base de datos MySQL remota
+- ✅ Exploración automática de estructura
+- ✅ Consultas en lenguaje natural
+- ✅ Análisis avanzado de datos
+- ✅ Generación de reportes PDF
+- ✅ Exportación de datos filtrados
+
+```python
+# Conexión MySQL
+MYSQL_URL = "mysql+pymysql://guest:ctu-relational@relational.fel.cvut.cz:3306/Airline"
+
+# Cargar datos con query personalizado
+df = DataSourceLoader.load_sql_query(MYSQL_URL, "SELECT * FROM vuelos LIMIT 20000")
+
+# Crear QryDoc y consultar
+qry = QryDoc(df, llm=llm)
+respuesta = qry.ask("¿Cuáles son las 5 aerolíneas con más vuelos?")
+```
+
+**Base de datos:** CTU Relational (445,827 vuelos de enero 2016)
+
+### 07_reporte_aerolineas_completo.py
+**Reporte PDF completo sin portada** con múltiples gráficas y análisis:
+- ✅ Sin portada (directo al contenido)
+- ✅ Logo en pie de página
+- ✅ 7 gráficas diferentes (barras, histogramas, pie, etc.)
+- ✅ Análisis estadístico completo
+- ✅ Resumen ejecutivo detallado
+
+```python
+# Template SIN portada, CON logo en footer
+template = ReportTemplate(
+    primary_color="#1a365d",
+    # Sin cover_image_path = sin portada
+    footer_logo_enabled=True,
+    footer_logo_path=Path("public/logo_op.png"),
+)
+
+# Generar reporte
+generator = ReportGenerator(output_path, template=template)
+generator.build(title="...", summary="...", chart_path=chart, dataframe=df)
+```
+
+**Gráficas generadas:**
+- Vuelos por aerolínea (barras)
+- Retraso promedio por aerolínea (barras horizontales)
+- Distribución de retrasos (histograma)
+- Retrasos por día de la semana (barras agrupadas)
+- Top 10 rutas más frecuentes (barras horizontales)
+- Distribución de distancias (histograma)
+- Estado de vuelos (pie chart)
+
 ## 🚀 Cómo Ejecutar
 
 ```bash

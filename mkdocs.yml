@@ -109,6 +109,9 @@ nav:
     - Logo en Footer: guides/footer-logos.md
     - Fuentes Personalizadas: guides/custom-fonts.md
     - Sistema de Secciones: guides/sections.md
+    - Múltiples Gráficas: guides/multiple-charts.md
+    - Bases de Datos: guides/databases.md
+    - Ejemplos Avanzados: guides/advanced-examples.md
   - API Reference:
     - QryDoc: api/qrydoc.md
     - ReportTemplate: api/report-template.md

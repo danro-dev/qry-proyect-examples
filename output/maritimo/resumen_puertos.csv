@@ -1,0 +1,671 @@
+travel_departure_port,Total_Viajes,Duracion_Promedio
+Portland,66,21.39
+Liverpool,59,48.53
+Santander,56,45.71
+New-York,52,14.5
+Boston,48,18.79
+New York,47,14.4
+Barcelona,43,49.83
+New Orleans,38,6.97
+CAA!diz,30,33.8
+Cardiff,29,46.66
+Buenos Aires,25,50.6
+Mobila,24,6.33
+Charleston,24,7.12
+Nueva York,22,14.81
+Amberes,20,51.1
+Mallorca,19,48.42
+New-Orleans,18,5.56
+l Havre,18,48.06
+Baltimore,16,15.25
+Filadelfia,15,14.73
+Matamoros,14,11.64
+Matanzas,14,1.57
+Savannah,12,8.25
+Veracruz,12,10.08
+Bilbao,11,45.45
+New Castle,10,57.8
+Burdeos,10,38.1
+New-Port,10,43.7
+Halifax,9,18.11
+Tampico,9,10.44
+St. Thomas,9,4.33
+Cayo Hueso,8,2.5
+Montevideo,8,49.0
+Bremen,8,47.5
+Shields,8,57.25
+Jacksonville,8,11.86
+Sisal,8,13.38
+Cienfuegos,7,8.71
+Bath,7,15.57
+Wilmington,7,11.29
+San Sebastian,7,51.14
+o New-York,7,10.0
+Glasgow,7,54.71
+Cuba,7,10.43
+Pansacola,7,7.57
+Aspinwall,6,10.5
+Bristol,6,27.83
+o Barcelona,6,50.67
+la CoruAA+-a,6,34.67
+l Mariel,6,1.17
+Sevilla,6,37.67
+Nueva Orleans,6,9.67
+Newport,6,26.33
+Tenerife,5,41.6
+o Santander,5,50.2
+Nassau,5,4.2
+Terranova,5,33.4
+Bangor,5,20.4
+o Portland,4,19.75
+Valencia,4,41.75
+Galveston,4,6.75
+o CAA!diz,4,39.75
+Sunderland,4,65.25
+Hamburgo,4,43.0
+N. Orleans,4,6.0
+BrAA(c)men,4,58.5
+a New-York,4,16.75
+CabaAA+-as,4,1.25
+Cadiz,4,37.0
+Troon,4,57.5
+Vigo,4,40.5
+o New Orleans,4,5.25
+Macao,4,115.5
+Amsterdam,4,53.0
+Malloren,4,40.5
+Harlingen,3,54.0
+MAA!laga,3,55.67
+Londres,3,75.67
+CA!diz,3,41.0
+New-Castle,3,35.33
+Colon,3,16.67
+Rotterdam,3,48.33
+a Amberes,3,53.67
+Bardeos,3,39.33
+N. York,3,16.67
+o Boston,3,27.33
+Leith,3,55.67
+o Montevideo,3,61.67
+Gijon,3,44.0
+Canarias,3,39.0
+Trujillo,3,11.0
+Marsella,3,58.0
+Guadalupe,3,35.33
+GAA(c)nova,3,39.33
+Puerto-Rico,2,13.0
+Santomas,2,5.0
+Charlerton,2,6.5
+a Wilmington,2,9.5
+Greenock,2,71.5
+Cayo-Hueso,2,12.5
+Nueva Barcelona,2,17.5
+Trinidad,2,17.5
+New Port,2,26.5
+Cartagena,2,17.5
+Nueva-Orleans,2,6.5
+Hartlepool,2,48.0
+Nuevitas,2,7.0
+Canton,2,146.5
+a Portland,2,19.5
+Filadelfa,2,14.0
+a Nueva York,2,14.5
+Tabasco,2,17.5
+Eastport,2,13.0
+Mallores,2,34.5
+Montecristi,2,5.5
+Wiscasset,2,22.0
+Wiscassett,2,12.5
+Do Portland,2,19.5
+Santo Domingo,2,8.0
+Santa Cruz,2,1.0
+San Cayetano,2,1.0
+a Liverpool,2,46.0
+a Matamoros,2,18.0
+Saco,2,12.0
+Sical,2,3.5
+Gibara,2,4.5
+Liverpol,2,43.0
+a Barcelona,2,34.5
+o Matamoros,2,13.0
+Apalachicola,2,8.5
+o Terranova,2,30.5
+Borton,2,21.0
+o Trujillo,2,12.5
+o Cardiff,2,48.5
+o San Sebastian,2,43.5
+o Veracruz,2,5.0
+o Aspinwall,2,5.0
+Belize,2,11.5
+o Charleston,2,12.5
+o New York,2,22.0
+Aalesund,2,50.5
+o Glasgow,2,55.0
+o Halifax,2,15.5
+AmbAA(c)res,2,111.5
+o Tabasco,2,9.0
+s New York,2,9.0
+o Montecristi,2,3.5
+l'ortland,2,14.5
+Campeche,2,7.5
+la CoruA+-a,2,53.5
+s Mobila,2,4.0
+o Liverpool,2,55.0
+Bahia Honda,2,1.5
+CabaA+-as,2,1.5
+Savallosh,1,15.0
+Sauto Domingo,1,4.0
+Saut-nder,1,3.0
+o Portond,1,15.0
+o Sa Sebastian,1,53.0
+Santander's Caba,1,35.0
+o Monterides,1,53.0
+St. Mary,1,10.0
+o Santan ter,1,48.0
+Suvannah,1,7.0
+o Santauder,1,46.0
+o Mobila,1,3.0
+o Scareport,1,18.0
+o Sierra-Morena,1,1.0
+SantAA3nas,1,8.0
+Swannce River,1,8.0
+SantAA3mas,1,5.0
+San Thomas,1,12.0
+Santa Maria (Georgia),1,20.0
+o Nuovitas,1,5.0
+Savanna,1,13.0
+o Monteviden,1,96.0
+St. John (Terranova),1,21.0
+Sunbargo,1,43.0
+o Montevider,1,74.0
+St. John (N. B),1,21.0
+St. John (N. B,1,18.0
+Soarport,1,20.0
+Smith,1,14.0
+"Sisal,",1,12.0
+o Nassan,1,3.0
+Siral,1,10.0
+o New Yok,1,10.0
+Sierrn-Morena,1,2.0
+Sierra-Morena,1,3.0
+San Sel astian,1,34.0
+o Newport,1,50.0
+o Nowport,1,13.0
+o Nuevitas,1,4.0
+Searsport,1,12.0
+"Scott
+De Sierra Morena",1,3.0
+Sierra-Matera,1,2.0
+l'ortand,1,11.0
+o St. Thomas,1,5.0
+Pecola,1,7.0
+r Jacksonville,1,11.0
+Port Royal,1,6.0
+ravannah,1,9.0
+Pornd,1,19.0
+Point-A -Pitro,1,15.0
+Point AA! Pitre,1,15.0
+s Macao,1,108.0
+Poatland,1,20.0
+Po find,1,23.0
+Picton,1,25.0
+Pernandina,1,7.0
+Peha-De San Marcos,1,6.0
+Pebrero 21. De Mallorca,1,42.0
+San Marcos,1,15.0
+Pausacola,1,8.0
+Paszacola,1,5.0
+Partland,1,17.0
+Papascula,1,16.0
+Panzscola,1,3.0
+Panzacola,1,7.0
+Panta Isabel [Cabo de Branza),1,50.0
+s New-Port,1,57.0
+t Havre,1,53.0
+tazeros 4 De Savannah,1,6.0
+u Pernandina,1,6.0
+Panaceis,1,10.0
+Portand,1,24.0
+Portind,1,3.0
+os De Amberes,1,30.0
+oi Havre,1,1.0
+San Juan de Terranova,1,32.0
+Swansea,1,73.0
+o Thronobjem,1,60.0
+o Trinidad,1,7.0
+Sagua la Grande,1,3.0
+o Ver eruz,1,4.0
+Saal,1,20.0
+"SU
+De Barcelona",1,61.0
+o Veracrnzy Sisat,1,4.0
+"Rotterdam,",1,43.0
+Rngor,1,20.0
+Rivadesella,1,48.0
+o laguna,1,8.0
+Rivadeo,1,43.0
+Reston,1,15.0
+Re S. Marcos,1,7.0
+Quadalupe,1,14.0
+o lilifax,1,30.0
+Pto. Rico,1,13.0
+oba,1,5.0
+Providencia,1,11.0
+Prilant,1,22.0
+Potand,1,13.0
+Portlaud,1,24.0
+Portlant,1,26.0
+San Juan de Nicaragua,1,6.0
+Tampa Cayo Ilaeso,1,3.0
+Swatow,1,112.0
+"Zage
+De Boston",1,21.0
+a Santander,1,37.0
+a San Marcos,1,10.0
+li Cornbay Puerto Rico,1,76.0
+a Pansacola,1,6.0
+liverpool,1,40.0
+a Nuova York,1,10.0
+los Cayos de S. Felipe,1,12.0
+o (Hargowy Arecibo,1,91.0
+o Amberes,1,43.0
+o Aslesand,1,61.0
+a New-Port,1,48.0
+a New York,1,13.0
+a New Castle,1,72.0
+a N. Orleans,1,8.0
+a Montevideo,1,50.0
+o Backstors,1,20.0
+a Hal fax,1,24.0
+a Corn,1,3.0
+a Clenfuegos,1,6.0
+a Charleston,1,18.0
+a Canarias,1,31.0
+a Buenos Airea,1,47.0
+PAA(c)rilaud,1,26.0
+a Apalachicula,1,16.0
+o Bao os Aires,1,63.0
+la Ortigosa,1,3.0
+a Sisal,1,7.0
+la Oratava,1,43.0
+iciembre 1- De New-York,1,6.0
+la Aguadilla,1,13.0
+l Mar el,1,1.0
+l Manzanillo,1,15.0
+la CoraA+-a,1,20.0
+l Have,1,55.0
+l Harre,1,48.0
+l Ferrol Tenerife,1,47.0
+l Calmito,1,7.0
+l Caimito,1,7.0
+iverpool,1,42.0
+is CoruAA+-a,1,63.0
+iSavannah,1,11.0
+a Tampa,1,2.0
+avannah,1,14.0
+antander,1,39.0
+allorca,1,70.0
+ala CoruAA+-a,1,51.0
+la CoruAA+-ty Pto Rico,1,52.0
+a la Corna,1,13.0
+la Corufia,1,58.0
+a ja CoruA+-a,1,6.0
+a charleston,1,7.0
+la Gaaira,1,16.0
+a Terranova,1,21.0
+a,1,41.0
+"ZO.
+Ja.
+De Santander",1,50.0
+Switao,1,98.0
+o Barcelons,1,42.0
+o Copenhague,1,67.0
+"UP
+De Christiansud",1,61.0
+o Ellsworth,1,25.0
+"U.
+Marzo-De Aspinwall",1,3.0
+o Fernandina,1,4.0
+U Bath,1,15.0
+o Filadelfia,1,15.0
+o Greenok,1,55.0
+Trininad,1,11.0
+Trinidad de Cuba,1,8.0
+o Hamburgo,1,78.0
+"o Hartlepool,",1,60.0
+o Hiron Myen,1,70.0
+Tream,1,47.0
+Torranova,1,31.0
+The New-Orens,1,1.0
+o Jacksonvile,1,10.0
+o Jacksonville,1,8.0
+o Jamaica,1,4.0
+Tejas,1,5.0
+Te Fi adelfia,1,18.0
+o Macao,1,120.0
+o Mallora,1,69.0
+o Matamores,1,19.0
+TCras,1,3.0
+Us Amberve,1,66.0
+o Cienfuegua,1,7.0
+Ut is Cor,1,15.0
+Willmington,1,11.0
+Xassan,1,7.0
+Wise sett,1,17.0
+o Buenos Aires,1,70.0
+o Burdeos,1,31.0
+o CAA!rdenas,1,2.0
+Wiscasses,1,28.0
+Wiscasselt,1,27.0
+Wiscasett.,1,19.0
+Wiscarcet,1,36.0
+Wilmingten,1,15.0
+Wilmingtea,1,11.0
+Wilariuzton,1,
+o Churleston,1,11.0
+Vig,1,51.0
+Vernorux,1,30.0
+o Caro-Hueso,1,1.0
+o Cavo-Hueso,1,1.0
+Verneruz,1,11.0
+Vernerus,1,13.0
+Veracruz Tarapico,1,8.0
+o ChAA!rio-ton,1,13.0
+Veracrus,1,4.0
+o Christiansund,1,85.0
+Va paraleo,1,6.0
+Palma (Mallorca),1,6.0
++ De Ams ordim,1,40.0
+Ostende,1,39.0
+CAA!rdena,1,1.0
+Bus Aires,1,5.0
+Buston,1,16.0
+C.,1,36.0
+CAA!d z,1,36.0
+"CAA!diz,",1,44.0
+CAA!diz. Canarias,1,20.0
+Cadis,1,42.0
+Buenos-Aires,1,61.0
+Calcuta,1,110.0
+Campecha,1,20.0
+Campocho,1,6.0
+Canarisa,1,35.0
+Card.ff,1,61.0
+Cardanas,1,1.0
+Burces,1,49.0
+Buenos Asres,1,47.0
+Cardenas,1,3.0
+Botton,1,19.0
+Bleal,1,5.0
+Boeton,1,19.0
+Bos on,1,15.0
+Bosto,1,23.0
+Bostos,1,17.0
+Bostou,1,21.0
+BrAA(c)ice,1,46.0
+Buenos Al es,1,60.0
+Bu kstort,1,25.0
+Buckeport,1,21.0
+Bucksport,1,25.0
+Bue os Aires,1,42.0
+Buena Aires e Monteri-n,1,4.0
+Buenos Airea,1,61.0
+Cardena,1,1.0
+Cardial,1,3.0
+Os Vigo,1,41.0
+Cubs,1,13.0
+Christianernd,1,47.0
+Churleston,1,10.0
+Cidiz,1,47.0
+Cienfueres,1,8.0
+Cinarias,1,5.0
+"Cp.
+De Sisal",1,20.0
+Curazao,1,17.0
+Charleslon,1,3.0
+"D.
+De CAA!liz",1,51.0
+Da Bahia Honda,1,
+Da Mauila,1,133.0
+Da Nueva Orleans,1,7.0
+Da Sunderland,1,8.0
+Dal Mariel,1,
+Charleston. Savannah,1,5.0
+Char.erton,1,10.0
+Cardit,1,41.0
+Cayenne,1,31.0
+Caristiansand,1,63.0
+Caro-Huero,1,1.0
+Carriff,1,5.0
+Cartagena de Indias,1,9.0
+Case-Hueso,1,2.0
+Cay-llure),1,9.0
+Cayo Huen,1,1.0
+Chagres,1,4.0
+Cayo Huero,1,1.0
+Cayo Hues,1,1.0
+Cayo Macao,1,1.0
+Cayo-Ineco,1,1.0
+Cayolluero,1,1.0
+ChAA!r.eaton. Savannah,1,3.0
+Bista,1,15.0
+Beston,1,15.0
+Belfast,1,21.0
+139 mDe Gefe,1,131.0
+.De Barcelona,1,62.0
+.De New Orleans,1,4.0
+.Do Amsterdam,1,45.0
+.Halifax,1,26.0
+1 New-O.leans,1,10.0
+11irl.ngen,1,51.0
+18. De Boston,1,24.0
+. Santander,1,44.0
+3 Matamo,1,12.0
+51De Charleston,1,5.0
+8 De Liverpool,1,72.0
+: Cariff,1,41.0
+: Mobila,1,6.0
+: New Orleans,1,3.0
+...De Portland,1,20.0
+. New-Orleans,1,3.0
+Bel ariel,1,1.0
+-New-Orleans,1,5.0
+", Jacksonville",1,10.0
+",De Georgetown",1,13.0
+- CAA!d z,1,31.0
+- Frankfort,1,19.0
+- New Port,1,12.0
+"-0.
+R.
+De New York",1,5.0
+-Santo Domingo,1,5.0
+. Guadalupe,1,15.0
+. Cayo Hueso,1,2.0
+. Charleston,1,11.0
+. Cienfuegos,1,11.0
+. De Bahia Honia,1,3.0
+. De Gibara,1,3.0
+. De New-Orleans,1,6.0
+: New-York,1,16.0
+: Sisal,1,19.0
+:Cadis,1,60.0
+Bardeon,1,53.0
+Ban Sebaslian,1,45.0
+Baracoa,1,1.0
+Barcelona. Cartagena,1,61.0
+Barco'ons,1,60.0
+Bardena,1,47.0
+Bardens,1,42.0
+Bareloos,1,51.0
+> Boston,1,31.0
+Baston,1,17.0
+Bat,1,21.0
+Battimore,1,23.0
+Be BatabinAA3,1,4.0
+Be Besten,1,3.0
+Be CAA!diz,1,31.0
+"Balt moy Crdenas,",1,14.0
+Babla Honda,1,1.0
+Babia louda,1,1.0
+Ba timore,1,24.0
+B.limme,1,15.0
+B. Santander,1,30.0
+AvilAA(c)s,1,55.0
+Aspinwali,1,6.0
+Arichat (N. B.),1,18.0
+"Ap
+DeMatanzas",1,1.0
+Andrussen,1,60.0
+Amb-res,1,6.0
+Aguadilla,1,10.0
+Agosto -De Hamburgo,1,49.0
+Abril 25 De Pansacola,1,5.0
+AC/A!A<<e Santander,1,53.0
+A Cienfuegos,1,33.0
+Dandre,1,63.0
+Darien,1,3.0
+Datanarias CAA!rdenas,1,40.0
+Nasva York,1,15.0
+N-Orleans,1,3.0
+N. Or cans,1,9.0
+N. w-York,1,24.0
+Naeva-Oricans,1,9.0
+Nantes,1,35.0
+Nassan,1,5.0
+New Belfast,1,24.0
+N Yorky Islas Turcas,1,14.0
+New Or eans,1,11.0
+New Or euns,1,10.0
+New Orienns,1,6.0
+New Orleaus,1,5.0
+New Orlenns,1,12.0
+New Orlenus,1,12.0
+N w York,1,7.0
+N York,1,16.0
+Marze Puerto Reil,1,5.0
+Mayar),1,3.0
+Marzo 27. De Ardrossan,1,41.0
+Mata,1,2.0
+Mata nigros,1,10.0
+Matarores,1,22.0
+Matatzan,1,1.0
+Matauzas,1,1.0
+Mayo 1.De Tampio,1,12.0
+Monin,1,4.0
+Mejanirin,1,19.0
+Melage,1,44.0
+Milaga,1,40.0
+Minachien,1,63.0
+Minatitlan,1,16.0
+Mobia,1,3.0
+New Poit,1,48.0
+New Verk,1,6.0
+New Yak,1,15.0
+Nuera Urleans,1,7.0
+Nordmaling,1,72.0
+Norfolk,1,17.0
+Now Orleans,1,6.0
+Now-Castle,1,66.0
+Now-York,1,24.0
+Nu-va York,1,7.0
+Nuera reane,1,2.0
+New Yerk,1,9.0
+Nuera-Orleaus,1,3.0
+Nueritas,1,3.0
+Nuev Orleans,1,3.0
+Nueva Yerk,1,18.0
+On,1,3.0
+On New-York,1,6.0
+No-York,1,5.0
+Nneva York,1,12.0
+New-rienns,1,9.0
+New-leans,1,9.0
+New-eastle,1,65.0
+New-Yor,1,5.0
+New-Part,1,9.0
+New-Orteaus,1,9.0
+New-Orlen,1,9.0
+New-OrlAA(c)ans,1,2.0
+New-Orenns,1,4.0
+New-Olen,1,4.0
+New-Oleens,1,7.0
+New-O Irans,1,12.0
+New-Brunswick,1,32.0
+New-Bedford,1,12.0
+", Charleston",1,14.0
+Marzo -De Gibara,1,5.0
+MartiDe Barcelona,1,41.0
+De Cavo Huso,1,1.0
+Filadeltia,1,21.0
+Filadeida,1,19.0
+Filadeifi,1,12.0
+Filadeilia,1,25.0
+FiladelAA+-a,1,10.0
+Filadelf,1,21.0
+Filadelfit,1,20.0
+"Fr
+DBarcelona",1,42.0
+Fiererikshaven,1,71.0
+Frankfort,1,21.0
+Frederickshaven,1,73.0
+Gasgow,1,2.0
+Gefle,1,92.0
+Gibraltar,1,31.0
+Gitan,1,3.0
+Filade fia,1,13.0
+Fernandina (F.),1,13.0
+Marsela,1,65.0
+Do Parcelona,1,47.0
+De Piladelus,1,1.0
+De Portland,1,16.0
+De Santauder,1,49.0
+Del Havre,1,39.0
+Do Charleston,1,5.0
+Do Mallorca. Ponce,1,9.0
+Do Santomas,1,8.0
+Fernandina,1,27.0
+Do Wilmington,1,13.0
+"Dr.
+De Portland",1,18.0
+"EDES:28888
+De Tarragona",1,52.0
+"F h De New-York""",1,8.0
+Fallriver,1,3.0
+Fantander,1,31.0
+Grargow,1,56.0
+Gua-lalupe,1,21.0
+Gunda upe,1,15.0
+Mallor,1,31.0
+M. utun,1,4.0
+MAA! aga,1,48.0
+Ma lorea,1,35.0
+Madao,1,100.0
+Madera,1,5.0
+Malas Aguas,1,1.0
+Mallorea,1,41.0
+Hall,1,62.0
+Mantua,1,1.0
+Mantun,1,3.0
+Manzanillo,1,9.0
+Manzanilo,1,14.0
+Marbias,1,20.0
+Mariel,1,1.0
+M,1,20.0
+Loadies Cuba,1,10.0
+Lo Boston,1,
+Liveppool,1,57.0
+Literpm,1,49.0
+Kingston,1,6.0
+Junio 13-116 Matamoros,1,20.0
+Julio 5 De Bangor,1,34.0
+"Ja
+De Boston",1,31.0
+Isla del CAA!rmen,1,3.0
+Honduras,1,7.0
+Heusten,1,5.0
+He Portland,1,11.0
+He New York,1,6.0
+Harcelona,1,47.0
+Hamburg,1,30.0
+Hambargo,1,49.0
+uernsey,1,44.0
