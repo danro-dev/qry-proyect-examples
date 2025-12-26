@@ -1,0 +1,132 @@
+# Configuración de MkDocs para qry-doc
+site_name: qry-doc
+site_description: Motor de análisis generativo para consultas en lenguaje natural
+site_author: danro-dev
+site_url: https://danro-dev.github.io/qry-doc/
+
+# Repositorio
+repo_name: danro-dev/qry-doc
+repo_url: https://github.com/danro-dev/qry-doc
+
+# Copyright
+copyright: Copyright &copy; 2024-2025 danro-dev
+
+# Tema Material
+theme:
+  name: material
+  language: es
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  
+  # Paleta de colores
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  
+  # Características
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+  
+  # Iconos
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search:
+      lang: es
+
+# Extensiones de Markdown
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: danro-dev
+      repo: qry-doc
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Navegación
+nav:
+  - Inicio: index.md
+  - Comenzar:
+    - Instalación: getting-started/installation.md
+    - Inicio Rápido: getting-started/quickstart.md
+  - Guías:
+    - Portadas: guides/cover-pages.md
+    - Logo en Footer: guides/footer-logos.md
+    - Fuentes Personalizadas: guides/custom-fonts.md
+    - Sistema de Secciones: guides/sections.md
+  - API Reference:
+    - QryDoc: api/qrydoc.md
+    - ReportTemplate: api/report-template.md
+    - Tipos y Enums: api/types.md
+  - Changelog: changelog.md
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/danro-dev
+  version:
+    provider: mike
+    default: latest
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+
+# CSS personalizado
+extra_css:
+  - stylesheets/extra.css

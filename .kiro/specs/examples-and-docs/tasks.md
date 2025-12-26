@@ -40,10 +40,10 @@ Este plan implementa la reorganización de ejemplos y la creación de documentac
     - _Requirements: 2.6_
 
 - [-] 3. Configurar MkDocs
-  - [-] 3.1 Agregar dependencias de MkDocs al proyecto
+  - [x] 3.1 Agregar dependencias de MkDocs al proyecto
     - Agregar mkdocs y mkdocs-material a pyproject.toml
     - _Requirements: 5.2_
-  - [ ] 3.2 Crear mkdocs.yml con configuración completa
+  - [-] 3.2 Crear mkdocs.yml con configuración completa
     - Configurar tema Material
     - Configurar navegación
     - Configurar logo y colores

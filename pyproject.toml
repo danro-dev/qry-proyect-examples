@@ -1,10 +1,18 @@
 [project]
 name = "qry-proyect"
 version = "0.1.0"
-description = "Add your description here"
+description = "Proyecto de demostración y documentación para qry-doc"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "pandasai-openai>=0.1.6",
     "qry-doc[all]>=0.1.0",
+]
+
+[project.optional-dependencies]
+docs = [
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+    "mkdocs-material-extensions>=1.3.0",
+    "pymdown-extensions>=10.0.0",
 ]
