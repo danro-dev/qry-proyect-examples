@@ -39,49 +39,49 @@ Este plan implementa la reorganización de ejemplos y la creación de documentac
     - Documentar cada ejemplo
     - _Requirements: 2.6_
 
-- [-] 3. Configurar MkDocs
+- [x] 3. Configurar MkDocs
   - [x] 3.1 Agregar dependencias de MkDocs al proyecto
     - Agregar mkdocs y mkdocs-material a pyproject.toml
     - _Requirements: 5.2_
-  - [-] 3.2 Crear mkdocs.yml con configuración completa
+  - [x] 3.2 Crear mkdocs.yml con configuración completa
     - Configurar tema Material
     - Configurar navegación
     - Configurar logo y colores
     - _Requirements: 3.1, 3.2, 5.1_
 
-- [ ] 4. Crear documentación - Páginas principales
-  - [ ] 4.1 Crear página de inicio (index.md)
+- [x] 4. Crear documentación - Páginas principales
+  - [x] 4.1 Crear página de inicio (index.md)
     - Overview del proyecto
     - Features principales
     - _Requirements: 4.1_
-  - [ ] 4.2 Crear guía de instalación
+  - [x] 4.2 Crear guía de instalación
     - Instalación con pip y uv
     - Configuración de LLM
     - _Requirements: 4.2_
-  - [ ] 4.3 Crear tutorial de inicio rápido
+  - [x] 4.3 Crear tutorial de inicio rápido
     - Ejemplo básico completo
     - _Requirements: 4.3_
 
-- [ ] 5. Crear documentación - Guías de features
-  - [ ] 5.1 Crear guía de portadas
+- [x] 5. Crear documentación - Guías de features
+  - [x] 5.1 Crear guía de portadas
     - Documentar cover_image_path
     - Ejemplos de código
     - _Requirements: 4.4_
-  - [ ] 5.2 Crear guía de footer logos
+  - [x] 5.2 Crear guía de footer logos
     - Documentar todas las opciones de logo
     - Ejemplos de posiciones
     - _Requirements: 4.4_
-  - [ ] 5.3 Crear guía de fuentes personalizadas
+  - [x] 5.3 Crear guía de fuentes personalizadas
     - Documentar soporte TTF/OTF
     - Ejemplos de uso
     - _Requirements: 4.4_
-  - [ ] 5.4 Crear guía de secciones
+  - [x] 5.4 Crear guía de secciones
     - Documentar SectionType y SectionConfig
     - Ejemplos de personalización
     - _Requirements: 4.4_
 
-- [ ] 6. Crear documentación - API Reference
-  - [ ] 6.1 Documentar clase QryDoc
+- [-] 6. Crear documentación - API Reference
+  - [-] 6.1 Documentar clase QryDoc
     - Métodos y propiedades
     - _Requirements: 4.5_
   - [ ] 6.2 Documentar ReportTemplate

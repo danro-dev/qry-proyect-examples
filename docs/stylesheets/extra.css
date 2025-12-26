@@ -1,0 +1,62 @@
+/* Estilos personalizados para la documentación de qry-doc */
+
+/* Logo en el header */
+.md-header__button.md-logo img {
+    height: 32px;
+    width: auto;
+}
+
+/* Colores de código */
+.highlight .nc {
+    color: #e74c3c;
+}
+
+/* Badges de versión */
+.version-badge {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: 0.75em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.375rem;
+    background-color: var(--md-primary-fg-color);
+    color: white;
+}
+
+.version-badge.new {
+    background-color: #27ae60;
+}
+
+.version-badge.deprecated {
+    background-color: #e74c3c;
+}
+
+/* Cards de características */
+.feature-card {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 0.5rem 0;
+    transition: box-shadow 0.2s;
+}
+
+.feature-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Tabla de API */
+.api-table th {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+}
+
+/* Notas de versión */
+.version-note {
+    background-color: var(--md-code-bg-color);
+    border-left: 4px solid var(--md-primary-fg-color);
+    padding: 0.5rem 1rem;
+    margin: 1rem 0;
+}
