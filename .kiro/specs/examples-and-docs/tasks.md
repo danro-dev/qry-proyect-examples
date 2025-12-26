@@ -16,7 +16,7 @@ Este plan implementa la reorganización de ejemplos y la creación de documentac
     - Mantener `data/` en ubicación compartida
     - _Requirements: 1.1, 1.3_
 
-- [-] 2. Crear nuevos ejemplos de PDF v0.1.3
+- [x] 2. Crear nuevos ejemplos de PDF v0.1.3
   - [x] 2.1 Crear ejemplo de portada básica
     - Usar `portada.png` de public/
     - Demostrar `cover_image_path`
@@ -28,19 +28,19 @@ Este plan implementa la reorganización de ejemplos y la creación de documentac
   - [x] 2.3 Crear ejemplo de fuentes personalizadas
     - Demostrar `custom_title_font_path` y `custom_body_font_path`
     - _Requirements: 2.3_
-  - [-] 2.4 Crear ejemplo de secciones
+  - [x] 2.4 Crear ejemplo de secciones
     - Demostrar `SectionType` y `SectionConfig`
     - Mostrar orden personalizado de secciones
     - _Requirements: 2.4_
-  - [ ] 2.5 Crear ejemplo completo combinando todas las features
+  - [x] 2.5 Crear ejemplo completo combinando todas las features
     - Portada + logo + fuentes + secciones
     - _Requirements: 2.5_
-  - [ ] 2.6 Crear README para los nuevos ejemplos
+  - [x] 2.6 Crear README para los nuevos ejemplos
     - Documentar cada ejemplo
     - _Requirements: 2.6_
 
-- [ ] 3. Configurar MkDocs
-  - [ ] 3.1 Agregar dependencias de MkDocs al proyecto
+- [-] 3. Configurar MkDocs
+  - [-] 3.1 Agregar dependencias de MkDocs al proyecto
     - Agregar mkdocs y mkdocs-material a pyproject.toml
     - _Requirements: 5.2_
   - [ ] 3.2 Crear mkdocs.yml con configuración completa
