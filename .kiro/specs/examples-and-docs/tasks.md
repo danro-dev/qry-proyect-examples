@@ -80,26 +80,26 @@ Este plan implementa la reorganización de ejemplos y la creación de documentac
     - Ejemplos de personalización
     - _Requirements: 4.4_
 
-- [-] 6. Crear documentación - API Reference
-  - [-] 6.1 Documentar clase QryDoc
+- [x] 6. Crear documentación - API Reference
+  - [x] 6.1 Documentar clase QryDoc
     - Métodos y propiedades
     - _Requirements: 4.5_
-  - [ ] 6.2 Documentar ReportTemplate
+  - [x] 6.2 Documentar ReportTemplate
     - Todos los parámetros
     - _Requirements: 4.5_
-  - [ ] 6.3 Documentar tipos (SectionType, LogoPosition, etc.)
+  - [x] 6.3 Documentar tipos (SectionType, LogoPosition, etc.)
     - Enums y dataclasses
     - _Requirements: 4.5_
 
-- [ ] 7. Crear changelog y assets
-  - [ ] 7.1 Crear página de changelog
+- [x] 7. Crear changelog y assets
+  - [x] 7.1 Crear página de changelog
     - Historial de versiones
     - _Requirements: 4.6_
-  - [ ] 7.2 Copiar assets (logo) a docs
+  - [x] 7.2 Copiar assets (logo) a docs
     - _Requirements: 3.2_
 
-- [ ] 8. Verificar y construir
-  - [ ] 8.1 Ejecutar ejemplos para verificar que funcionan
+- [x] 8. Verificar y construir
+  - [-] 8.1 Ejecutar ejemplos para verificar que funcionan
     - _Requirements: 2.6_
   - [ ] 8.2 Construir sitio de documentación
     - Ejecutar mkdocs build

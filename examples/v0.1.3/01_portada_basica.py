@@ -17,7 +17,8 @@ Características demostradas:
 from pathlib import Path
 import pandas as pd
 
-from qry_doc import ReportTemplate, ReportGenerator
+from qry_doc import ReportTemplate
+from qry_doc.report_generator import ReportGenerator
 
 
 def main():

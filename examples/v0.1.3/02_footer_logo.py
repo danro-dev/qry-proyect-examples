@@ -16,7 +16,8 @@ Características demostradas:
 from pathlib import Path
 import pandas as pd
 
-from qry_doc import ReportTemplate, ReportGenerator, LogoPosition
+from qry_doc import ReportTemplate, LogoPosition
+from qry_doc.report_generator import ReportGenerator
 
 
 def crear_reporte(output_path: Path, template: ReportTemplate, titulo: str, descripcion: str):

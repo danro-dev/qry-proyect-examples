@@ -23,11 +23,11 @@ from datetime import datetime
 
 from qry_doc import (
     ReportTemplate, 
-    ReportGenerator, 
     SectionType, 
     SectionConfig,
     LogoPosition
 )
+from qry_doc.report_generator import ReportGenerator
 
 
 def main():

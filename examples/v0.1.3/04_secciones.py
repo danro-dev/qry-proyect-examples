@@ -24,10 +24,10 @@ import pandas as pd
 
 from qry_doc import (
     ReportTemplate, 
-    ReportGenerator, 
     SectionType, 
     SectionConfig
 )
+from qry_doc.report_generator import ReportGenerator
 
 
 def main():
